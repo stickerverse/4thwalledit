@@ -772,6 +772,126 @@
         }
       }
     </style>
+    
+    <!-- StickerApp Editor Styles -->
+    <style>
+      /* StickerApp Color System */
+      :root {
+        --st-gray-100: #f5f5f5;
+        --st-gray-200: #e5e5e5;
+        --st-black: #1a1a1a;
+        --background-image-url: none;
+        --md-background-image-url: none;
+        --lg-background-image-url: none;
+      }
+      
+      /* StickerApp Typography Classes */
+      .text-st-black { color: var(--st-black); }
+      .bg-st-gray-100 { background-color: var(--st-gray-100); }
+      .border-st-gray-200 { border-color: var(--st-gray-200); }
+      
+      .text-st-sm-large { font-size: 1.125rem; line-height: 1.75rem; } /* 18px */
+      .text-st-lg-large { font-size: 1.25rem; line-height: 1.75rem; } /* 20px */
+      .text-st-sm-xsmall { font-size: 0.875rem; line-height: 1.25rem; } /* 14px */
+      .text-st-lg-xsmall { font-size: 0.875rem; line-height: 1.25rem; } /* 14px */
+      
+      .font-black { font-weight: 900; }
+      .max-w-text-max { max-width: 65ch; }
+      
+      /* StickerApp Layout Classes */
+      .max-w-page-max { max-width: 1280px; }
+      .pt-large { padding-top: 4rem; }
+      .pl-medium { padding-left: 1.5rem; }
+      .pr-medium { padding-right: 1.5rem; }
+      .pl-gutter { padding-left: 2rem; }
+      .pr-gutter { padding-right: 2rem; }
+      .pb-3 { padding-bottom: 0.75rem; }
+      .gap-gutter { gap: 2rem; }
+      
+      /* Grid System */
+      .grid { display: grid; }
+      .grid-cols-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .col-span-2 { grid-column: span 2 / span 2; }
+      .gap-2 { gap: 0.5rem; }
+      
+      /* Responsive Grid */
+      @media (min-width: 768px) {
+        .md\:grid-cols-12 { grid-template-columns: repeat(12, minmax(0, 1fr)); }
+        .md\:col-span-12 { grid-column: span 12 / span 12; }
+        .md\:text-st-black { color: var(--st-black); }
+        .md\:bg-\[image\:var\(--md-background-image-url\)\] { 
+          background-image: var(--md-background-image-url); 
+        }
+        .md\:pl-medium { padding-left: 1.5rem; }
+        .md\:pr-medium { padding-right: 1.5rem; }
+      }
+      
+      @media (min-width: 1024px) {
+        .lg\:col-span-3 { grid-column: span 3 / span 3; }
+        .lg\:text-st-black { color: var(--st-black); }
+        .lg\:text-st-lg-large { font-size: 1.25rem; line-height: 1.75rem; }
+        .lg\:text-st-lg-xsmall { font-size: 0.875rem; line-height: 1.25rem; }
+        .lg\:bg-\[image\:var\(--lg-background-image-url\)\] { 
+          background-image: var(--lg-background-image-url); 
+        }
+        .lg\:pl-gutter { padding-left: 2rem; }
+        .lg\:pr-gutter { padding-right: 2rem; }
+      }
+      
+      /* Utility Classes */
+      .scroll-mt-36 { scroll-margin-top: 9rem; }
+      .bg-cover { background-size: cover; }
+      .bg-no-repeat { background-repeat: no-repeat; }
+      .mx-auto { margin-left: auto; margin-right: auto; }
+      .h-full { height: 100%; }
+      .box-content { box-sizing: content-box; }
+      .flex { display: flex; }
+      .flex-col { flex-direction: column; }
+      .justify-center { justify-content: center; }
+      .justify-between { justify-content: space-between; }
+      .w-full { width: 100%; }
+      .relative { position: relative; }
+      .absolute { position: absolute; }
+      .top-full { top: 100%; }
+      .z-10 { z-index: 10; }
+      .cursor-pointer { cursor: pointer; }
+      .auto-rows-fr { grid-auto-rows: 1fr; }
+      .rounded-lg { border-radius: 0.5rem; }
+      .border { border-width: 1px; }
+      .border-2 { border-width: 2px; }
+      .border-dashed { border-style: dashed; }
+      .border-transparent { border-color: transparent; }
+      .bg-white { background-color: #ffffff; }
+      .bg-transparent { background-color: transparent; }
+      .px-4 { padding-left: 1rem; padding-right: 1rem; }
+      .py-4 { padding-top: 1rem; padding-bottom: 1rem; }
+      .py-2 { padding-top: 0.5rem; padding-bottom: 0.5rem; }
+      .hidden { display: none; }
+      .h-5 { height: 1.25rem; }
+      .w-5 { width: 1.25rem; }
+      .overflow-hidden { overflow: hidden; }
+      .align-middle { vertical-align: middle; }
+      .float-none { float: none; }
+      
+      /* Responsive Flexbox */
+      @media (min-width: 640px) {
+        .sm\:flex-col { flex-direction: column; }
+      }
+      
+      @media (min-width: 768px) {
+        .md\:flex-col { flex-direction: column; }
+      }
+      
+      /* Custom Component Styles */
+      .data-\[disabled\]\:cursor-not-allowed[data-disabled] {
+        cursor: not-allowed;
+      }
+      
+      .hover\:bg-gray-50:hover {
+        background-color: #f9fafb;
+      }
+    </style>
+    
     <script type="text/javascript">
       window.__WEBFLOW_CURRENCY_SETTINGS = {
         currencyCode: "USD",
@@ -5075,187 +5195,134 @@
       </div>
     </section>
     
-    <!-- Sticker Editor Module -->
-    <section class="sticker-editor-section">
-      <div class="sticker-editor-container">
-        <!-- Part 1: Image Editing Canvas (Top Section) -->
-        <div class="sticker-canvas-wrapper">
-          <div class="sticker-canvas-container">
-            <div id="canvas-upload-area" class="canvas-upload-area">
-              <div class="upload-prompt">
-                <div class="upload-icon">
-                  <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M14 2H6C4.9 2 4 2.9 4 4V20C4 21.1 4.89 22 5.99 22H18C19.1 22 20 21.1 20 20V8L14 2ZM18 20H6V4H13V9H18V20Z" fill="#8E8E89"/>
-                    <path d="M8 15.5L11 12.5L13 14.5L16.5 11L19 13.5V18H5V15.5H8Z" fill="#8E8E89"/>
-                  </svg>
-                </div>
-                <h3 class="upload-title">Upload Your Design</h3>
-                <p class="upload-description">Drag and drop your image here or click to browse</p>
-                <button id="upload-button" class="button large w-button">Choose File</button>
+    <!-- StickerApp Editor Module -->
+    <div
+      class="scroll-mt-36 bg-cover bg-no-repeat bg-st-gray-100 bg-[image:var(--background-image-url)] md:bg-[image:var(--md-background-image-url)] lg:bg-[image:var(--lg-background-image-url)]"
+      id="wizform"
+    >
+      <div
+        class="mx-auto h-full bg-cover bg-no-repeat bg-st-gray-100 box-content max-w-page-max pt-large pl-medium pl-medium lg:pl-gutter md:pl-medium pr-medium pr-medium lg:pr-gutter md:pr-medium"
+      >
+        <div
+          id="wizform-content"
+          role="region"
+          class="mx-auto flex max-w-page-max flex-col justify-center rounded-lg border-2 border-dashed border-transparent sm:flex-col md:flex-col float-none bg-transparent"
+        >
+          <div class="grid grid-cols-2 md:grid-cols-12 gap-gutter">
+            <div class="col-span-2 md:col-span-12 lg:col-span-3">
+              <h3
+                class="lg:text-st-black md:text-st-black text-st-black text-st-sm-xsmall lg:text-st-lg-xsmall font-black pb-3"
+                id="product-list-heading"
+              >
+                Product
+              </h3>
+              <div class="bg-white relative flex flex-col gap-2">
+                <button
+                  id="product-dropdown-btn"
+                  type="button"
+                  class="flex w-full justify-between rounded-lg border border-st-gray-200 px-4 py-4"
+                  role="combobox"
+                  aria-haspopup="listbox"
+                  aria-controls="product-dropdown-list"
+                  aria-expanded="false"
+                  aria-labelledby="product-list-heading"
+                >
+                  <span id="selected-product">Die Cut Sticker</span>
+                  <span>
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 -960 960 960"
+                      fill="currentcolor"
+                      class="h-5 w-5 overflow-hidden align-middle"
+                    >
+                      <path
+                        d="M480-361q-8 0-15-2.5t-13-8.5L268-556q-11-11-11-28t11-28q11-11 28-11t28 11l156 156 156-156q11-11 28-11t28 11q11 11 11 28t-11 28L508-372q-6 6-13 8.5t-15 2.5Z"
+                      ></path>
+                    </svg>
+                  </span>
+                </button>
+                <ul
+                  role="listbox"
+                  id="product-dropdown-list"
+                  class="absolute top-full z-10 grid w-full cursor-pointer auto-rows-fr rounded-lg border border-st-gray-200 bg-white hidden"
+                >
+                  <li
+                    role="option"
+                    tabindex="-1"
+                    data-label="Die Cut Sticker"
+                    data-value="die_cut"
+                    aria-selected="true"
+                    class="px-4 py-2 data-[disabled]:cursor-not-allowed hover:bg-gray-50"
+                  >
+                    Die Cut Sticker
+                  </li>
+                  <li
+                    role="option"
+                    tabindex="-1"
+                    data-label="Sticker Sheet"
+                    data-value="sheet"
+                    aria-selected="false"
+                    class="px-4 py-2 data-[disabled]:cursor-not-allowed hover:bg-gray-50"
+                  >
+                    Sticker Sheet
+                  </li>
+                  <li
+                    role="option"
+                    tabindex="-1"
+                    data-label="Kiss Cut Sheet"
+                    data-value="sheet_kiss_cut"
+                    aria-selected="false"
+                    class="px-4 py-2 data-[disabled]:cursor-not-allowed hover:bg-gray-50"
+                  >
+                    Kiss Cut Sheet
+                  </li>
+                  <li
+                    role="option"
+                    tabindex="-1"
+                    data-label="Hang Tag Sticker"
+                    data-value="hang_tag"
+                    aria-selected="false"
+                    class="px-4 py-2 data-[disabled]:cursor-not-allowed hover:bg-gray-50"
+                  >
+                    Hang Tag Sticker
+                  </li>
+                  <li
+                    role="option"
+                    tabindex="-1"
+                    data-label="Epoxy 3D Sticker"
+                    data-value="3d_dome"
+                    aria-selected="false"
+                    class="px-4 py-2 data-[disabled]:cursor-not-allowed hover:bg-gray-50"
+                  >
+                    Epoxy 3D Sticker
+                  </li>
+                  <li
+                    role="option"
+                    tabindex="-1"
+                    data-label="Front Adhesive Sticker"
+                    data-value="front_adhesive"
+                    aria-selected="false"
+                    class="px-4 py-2 data-[disabled]:cursor-not-allowed hover:bg-gray-50"
+                  >
+                    Front Adhesive Sticker
+                  </li>
+                  <li
+                    role="option"
+                    tabindex="-1"
+                    data-label="Heavy Duty Sticker"
+                    data-value="heavy_duty"
+                    aria-selected="false"
+                    class="px-4 py-2 data-[disabled]:cursor-not-allowed hover:bg-gray-50"
+                  >
+                    Heavy Duty Sticker
+                  </li>
+                </ul>
               </div>
             </div>
-            <div id="canvas-preview" class="canvas-preview" style="display: none;">
-              <div class="canvas-image-container">
-                <img id="preview-image" class="preview-image" alt="Preview">
-                <div id="cutline-overlay" class="cutline-overlay"></div>
-              </div>
-              <div class="canvas-controls">
-                <button id="rotate-left" class="canvas-control-btn">↺</button>
-                <button id="rotate-right" class="canvas-control-btn">↻</button>
-                <button id="reset-image" class="canvas-control-btn">Reset</button>
-              </div>
-            </div>
-            <input type="file" id="file-input" accept="image/*" style="display: none;">
-          </div>
-        </div>
-
-        <!-- Part 2: Sticker Configuration Tool (Bottom Section) -->
-        <div class="sticker-config-wrapper">
-          <div class="sticker-config-header">
-            <h2 class="config-title">Print customized stickers</h2>
-            <p class="config-subtitle">Choose your desired outline, size, quantity and material. Upload your design and go to our editor.</p>
-          </div>
-          
-          <div class="sticker-config-grid">
-            <!-- Column 1: Product & Shape -->
-            <div class="config-column">
-              <div class="config-section">
-                <label class="config-label">Product</label>
-                <select id="product-select" class="config-select">
-                  <option value="die-cut">Die Cut Sticker</option>
-                  <option value="kiss-cut">Kiss Cut Sticker</option>
-                  <option value="transfer">Transfer Sticker</option>
-                </select>
-              </div>
-              
-              <div class="config-section">
-                <label class="config-label">Shape</label>
-                <div class="shape-options">
-                  <div class="shape-option active" data-shape="contour">
-                    <div class="shape-icon contour-icon"></div>
-                    <span>Contour Cut</span>
-                  </div>
-                  <div class="shape-option" data-shape="square">
-                    <div class="shape-icon square-icon"></div>
-                    <span>Square</span>
-                  </div>
-                  <div class="shape-option" data-shape="circle">
-                    <div class="shape-icon circle-icon"></div>
-                    <span>Circle</span>
-                  </div>
-                  <div class="shape-option" data-shape="rounded">
-                    <div class="shape-icon rounded-icon"></div>
-                    <span>Rounded Corners</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <!-- Column 2: Material & Finish -->
-            <div class="config-column">
-              <div class="config-section">
-                <label class="config-label">Material</label>
-                <div class="material-grid">
-                  <div class="material-option active" data-material="vinyl">
-                    <div class="material-image vinyl-bg"></div>
-                    <span>Vinyl</span>
-                  </div>
-                  <div class="material-option" data-material="holographic">
-                    <div class="material-image holo-bg"></div>
-                    <span>Holographic</span>
-                  </div>
-                  <div class="material-option" data-material="transparent">
-                    <div class="material-image transparent-bg"></div>
-                    <span>Transparent</span>
-                  </div>
-                  <div class="material-option" data-material="glitter">
-                    <div class="material-image glitter-bg"></div>
-                    <span>Glitter</span>
-                  </div>
-                  <div class="material-option" data-material="mirror">
-                    <div class="material-image mirror-bg"></div>
-                    <span>Mirror</span>
-                  </div>
-                  <div class="material-option" data-material="pixie">
-                    <div class="material-image pixie-bg"></div>
-                    <span>Pixie Dust</span>
-                  </div>
-                </div>
-              </div>
-              
-              <div class="config-section">
-                <label class="config-label">Finish</label>
-                <select id="finish-select" class="config-select">
-                  <option value="glossy">Glossy</option>
-                  <option value="matte">Matte</option>
-                  <option value="satin">Satin</option>
-                </select>
-              </div>
-            </div>
-
-            <!-- Column 3: Size -->
-            <div class="config-column">
-              <div class="config-section">
-                <label class="config-label">Size (inch, WxH)</label>
-                <div class="size-options">
-                  <div class="size-option active" data-size="2x2">2" x 2"</div>
-                  <div class="size-option" data-size="3x3">3" x 3"</div>
-                  <div class="size-option" data-size="4x4">4" x 4"</div>
-                  <div class="size-option" data-size="5x5">5" x 5"</div>
-                  <div class="size-option" data-size="6x6">6" x 6"</div>
-                  <div class="size-option" data-size="7x7">7" x 7"</div>
-                  <div class="size-option" data-size="8x8">8" x 8"</div>
-                  <div class="size-option" data-size="9x9">9" x 9"</div>
-                  <div class="size-option" data-size="10x10">10" x 10"</div>
-                  <div class="size-option custom" data-size="custom">Custom size</div>
-                </div>
-              </div>
-            </div>
-
-            <!-- Column 4: Quantity -->
-            <div class="config-column">
-              <div class="config-section">
-                <label class="config-label">Quantity</label>
-                <div class="quantity-options">
-                  <div class="quantity-option active" data-quantity="55">
-                    <span class="qty-number">55 pcs</span>
-                    <span class="qty-price">$26</span>
-                  </div>
-                  <div class="quantity-option" data-quantity="100">
-                    <span class="qty-number">100 pcs</span>
-                    <span class="qty-price">$39</span>
-                    <span class="qty-discount">-32%</span>
-                  </div>
-                  <div class="quantity-option" data-quantity="250">
-                    <span class="qty-number">250 pcs</span>
-                    <span class="qty-price">$79</span>
-                    <span class="qty-discount">-52%</span>
-                  </div>
-                  <div class="quantity-option" data-quantity="500">
-                    <span class="qty-number">500 pcs</span>
-                    <span class="qty-price">$139</span>
-                    <span class="qty-discount">-60%</span>
-                  </div>
-                  <div class="quantity-option" data-quantity="1000">
-                    <span class="qty-number">1000 pcs</span>
-                    <span class="qty-price">$249</span>
-                    <span class="qty-discount">-68%</span>
-                  </div>
-                  <div class="quantity-option custom" data-quantity="custom">
-                    <span class="qty-number">Custom quantity</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          
-          <!-- Action Button -->
-          <div class="config-action">
-            <button id="final-upload-button" class="button large w-button" style="background-color: #FFD700; color: #000;">Upload file</button>
           </div>
         </div>
       </div>
-    </section>
+    </div>
     
     <div class="modal-wrapper">
       <div
@@ -23481,194 +23548,88 @@
       );
     </script>
     
-    <!-- Sticker Editor JavaScript -->
+    <!-- StickerApp Editor JavaScript -->
     <script>
       document.addEventListener('DOMContentLoaded', function() {
-        // Configuration state
-        const config = {
-          shape: 'contour',
-          material: 'vinyl',
-          finish: 'glossy',
-          size: '2x2',
-          quantity: '55',
-          image: null,
-          rotation: 0
-        };
+        // Product dropdown functionality
+        const dropdownBtn = document.getElementById('product-dropdown-btn');
+        const dropdownList = document.getElementById('product-dropdown-list');
+        const selectedProductSpan = document.getElementById('selected-product');
         
-        // DOM elements
-        const fileInput = document.getElementById('file-input');
-        const uploadButton = document.getElementById('upload-button');
-        const finalUploadButton = document.getElementById('final-upload-button');
-        const uploadArea = document.getElementById('canvas-upload-area');
-        const previewContainer = document.getElementById('canvas-preview');
-        const previewImage = document.getElementById('preview-image');
-        const cutlineOverlay = document.getElementById('cutline-overlay');
-        
-        // File upload handling
-        uploadButton.addEventListener('click', () => fileInput.click());
-        finalUploadButton.addEventListener('click', () => fileInput.click());
-        
-        uploadArea.addEventListener('click', () => fileInput.click());
-        
-        uploadArea.addEventListener('dragover', (e) => {
-          e.preventDefault();
-          uploadArea.style.borderColor = '#007bff';
-          uploadArea.style.background = '#f8f9ff';
-        });
-        
-        uploadArea.addEventListener('dragleave', () => {
-          uploadArea.style.borderColor = '#ddd';
-          uploadArea.style.background = 'transparent';
-        });
-        
-        uploadArea.addEventListener('drop', (e) => {
-          e.preventDefault();
-          uploadArea.style.borderColor = '#ddd';
-          uploadArea.style.background = 'transparent';
-          
-          const files = e.dataTransfer.files;
-          if (files.length > 0 && files[0].type.startsWith('image/')) {
-            handleFile(files[0]);
-          }
-        });
-        
-        fileInput.addEventListener('change', (e) => {
-          if (e.target.files.length > 0) {
-            handleFile(e.target.files[0]);
-          }
-        });
-        
-        function handleFile(file) {
-          const reader = new FileReader();
-          reader.onload = (e) => {
-            config.image = e.target.result;
-            previewImage.src = e.target.result;
-            uploadArea.style.display = 'none';
-            previewContainer.style.display = 'block';
-            updateCutlineOverlay();
-          };
-          reader.readAsDataURL(file);
-        }
-        
-        // Canvas controls
-        document.getElementById('rotate-left').addEventListener('click', () => {
-          config.rotation -= 90;
-          previewImage.style.transform = `rotate(${config.rotation}deg)`;
-        });
-        
-        document.getElementById('rotate-right').addEventListener('click', () => {
-          config.rotation += 90;
-          previewImage.style.transform = `rotate(${config.rotation}deg)`;
-        });
-        
-        document.getElementById('reset-image').addEventListener('click', () => {
-          config.rotation = 0;
-          previewImage.style.transform = 'rotate(0deg)';
-          updateCutlineOverlay();
-        });
-        
-        // Shape selection
-        document.querySelectorAll('.shape-option').forEach(option => {
-          option.addEventListener('click', () => {
-            document.querySelectorAll('.shape-option').forEach(o => o.classList.remove('active'));
-            option.classList.add('active');
-            config.shape = option.dataset.shape;
-            updateCutlineOverlay();
-          });
-        });
-        
-        // Material selection
-        document.querySelectorAll('.material-option').forEach(option => {
-          option.addEventListener('click', () => {
-            document.querySelectorAll('.material-option').forEach(o => o.classList.remove('active'));
-            option.classList.add('active');
-            config.material = option.dataset.material;
-          });
-        });
-        
-        // Size selection
-        document.querySelectorAll('.size-option').forEach(option => {
-          option.addEventListener('click', () => {
-            document.querySelectorAll('.size-option').forEach(o => o.classList.remove('active'));
-            option.classList.add('active');
-            config.size = option.dataset.size;
+        if (dropdownBtn) {
+          dropdownBtn.addEventListener('click', function() {
+            const isExpanded = dropdownBtn.getAttribute('aria-expanded') === 'true';
+            dropdownBtn.setAttribute('aria-expanded', !isExpanded);
             
-            if (config.size === 'custom') {
-              const customSize = prompt('Enter custom size (e.g., "3x5"):');
-              if (customSize) {
-                option.textContent = customSize;
-                config.size = customSize;
+            if (dropdownList) {
+              if (isExpanded) {
+                dropdownList.classList.add('hidden');
+              } else {
+                dropdownList.classList.remove('hidden');
               }
             }
           });
+        }
+        
+        // Handle option selection
+        if (dropdownList) {
+          const options = dropdownList.querySelectorAll('li[role="option"]');
+          options.forEach(option => {
+            option.addEventListener('click', function() {
+              // Update selected product text
+              const label = this.getAttribute('data-label');
+              if (selectedProductSpan && label) {
+                selectedProductSpan.textContent = label;
+              }
+              
+              // Update aria-selected attributes
+              options.forEach(opt => opt.setAttribute('aria-selected', 'false'));
+              this.setAttribute('aria-selected', 'true');
+              
+              // Close dropdown
+              dropdownList.classList.add('hidden');
+              if (dropdownBtn) {
+                dropdownBtn.setAttribute('aria-expanded', 'false');
+              }
+              
+              console.log('Selected product:', this.getAttribute('data-value'));
+            });
+            
+            // Add keyboard navigation
+            option.addEventListener('keydown', function(e) {
+              if (e.key === 'Enter' || e.key === ' ') {
+                e.preventDefault();
+                this.click();
+              }
+            });
+          });
+        }
+        
+        // Close dropdown when clicking outside
+        document.addEventListener('click', function(e) {
+          if (dropdownBtn && dropdownList && !dropdownBtn.contains(e.target) && !dropdownList.contains(e.target)) {
+            dropdownList.classList.add('hidden');
+            dropdownBtn.setAttribute('aria-expanded', 'false');
+          }
         });
         
-        // Quantity selection
-        document.querySelectorAll('.quantity-option').forEach(option => {
-          option.addEventListener('click', () => {
-            document.querySelectorAll('.quantity-option').forEach(o => o.classList.remove('active'));
-            option.classList.add('active');
-            config.quantity = option.dataset.quantity;
-            
-            if (config.quantity === 'custom') {
-              const customQty = prompt('Enter custom quantity:');
-              if (customQty) {
-                option.querySelector('.qty-number').textContent = customQty + ' pcs';
-                config.quantity = customQty;
+        // Keyboard navigation for dropdown button
+        if (dropdownBtn) {
+          dropdownBtn.addEventListener('keydown', function(e) {
+            if (e.key === 'ArrowDown') {
+              e.preventDefault();
+              if (dropdownList && dropdownList.classList.contains('hidden')) {
+                this.click();
+              }
+              const firstOption = dropdownList?.querySelector('li[role="option"]');
+              if (firstOption) {
+                firstOption.focus();
               }
             }
           });
-        });
-        
-        // Finish selection
-        document.getElementById('finish-select').addEventListener('change', (e) => {
-          config.finish = e.target.value;
-        });
-        
-        // Product selection
-        document.getElementById('product-select').addEventListener('change', (e) => {
-          config.product = e.target.value;
-        });
-        
-        function updateCutlineOverlay() {
-          if (!cutlineOverlay) return;
-          
-          // Remove existing shape classes
-          cutlineOverlay.className = 'cutline-overlay';
-          
-          // Add shape-specific class
-          switch(config.shape) {
-            case 'circle':
-              cutlineOverlay.classList.add('circle');
-              break;
-            case 'rounded':
-              cutlineOverlay.classList.add('rounded');
-              break;
-            case 'square':
-              // Default square styling
-              break;
-            case 'contour':
-              // Custom contour styling could be added here
-              break;
-          }
         }
         
-        // Initialize
-        updateCutlineOverlay();
-        
-        // Console log for configuration changes (for debugging)
-        function logConfig() {
-          console.log('Current Configuration:', config);
-        }
-        
-        // Add event listeners to log configuration changes
-        document.querySelectorAll('.shape-option, .material-option, .size-option, .quantity-option').forEach(option => {
-          option.addEventListener('click', () => setTimeout(logConfig, 100));
-        });
-        
-        document.querySelectorAll('#finish-select, #product-select').forEach(select => {
-          select.addEventListener('change', logConfig);
-        });
+        console.log('StickerApp editor initialized');
       });
     </script>
   </body>
