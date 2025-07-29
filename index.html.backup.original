@@ -1980,7 +1980,12 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images-carousel/image1.jpg"
+                            loading="eager"
+                            alt="Carousel image 1"
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_1.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -1989,7 +1994,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/6844333726b1d73b26410991_db2783282d6072d64258325404412e24_Santagato%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/6844333726b1d73b26410991_db2783282d6072d64258325404412e24_Santagato%20C-p-500.webp 500w,
+                              images/6844333726b1d73b26410991_db2783282d6072d64258325404412e24_Santagato%20C-p-800.webp 800w,
+                              images/6844333726b1d73b26410991_db2783282d6072d64258325404412e24_Santagato%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_1.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2000,7 +2016,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/684433372da81548f6163c1b_be7ff1ffa4ffc77b023a8ba02c5fd92f_NYMag%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/684433372da81548f6163c1b_be7ff1ffa4ffc77b023a8ba02c5fd92f_NYMag%20A-p-500.webp 500w,
+                            images/684433372da81548f6163c1b_be7ff1ffa4ffc77b023a8ba02c5fd92f_NYMag%20A-p-800.webp 800w,
+                            images/684433372da81548f6163c1b_be7ff1ffa4ffc77b023a8ba02c5fd92f_NYMag%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_2.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2012,7 +2039,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/684433370350bed52f52eb9b_b0cb071799b7780cc8bafb7804f1512a_NYMag%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/684433370350bed52f52eb9b_b0cb071799b7780cc8bafb7804f1512a_NYMag%20B-p-500.webp 500w,
+                              images/684433370350bed52f52eb9b_b0cb071799b7780cc8bafb7804f1512a_NYMag%20B-p-800.webp 800w,
+                              images/684433370350bed52f52eb9b_b0cb071799b7780cc8bafb7804f1512a_NYMag%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_2.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2021,7 +2059,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/68443337972eb0cfe78ffbb5_955e93b2408984ae49908c80634c4246_NYMag%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/68443337972eb0cfe78ffbb5_955e93b2408984ae49908c80634c4246_NYMag%20C-p-500.webp 500w,
+                              images/68443337972eb0cfe78ffbb5_955e93b2408984ae49908c80634c4246_NYMag%20C-p-800.webp 800w,
+                              images/68443337972eb0cfe78ffbb5_955e93b2408984ae49908c80634c4246_NYMag%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_2.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2032,7 +2081,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/68443339f2d2d0490752faba_24da17fdcdbe51c08550b71057b263f6_MKBHD%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443339f2d2d0490752faba_24da17fdcdbe51c08550b71057b263f6_MKBHD%20A-p-500.webp 500w,
+                            images/68443339f2d2d0490752faba_24da17fdcdbe51c08550b71057b263f6_MKBHD%20A-p-800.webp 800w,
+                            images/68443339f2d2d0490752faba_24da17fdcdbe51c08550b71057b263f6_MKBHD%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_3.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2044,7 +2104,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/68443339e5bafea869de52cf_124a2fd0dd0fe00eafbd00fe8758e2b8_MKBHD%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/68443339e5bafea869de52cf_124a2fd0dd0fe00eafbd00fe8758e2b8_MKBHD%20B-p-500.webp 500w,
+                              images/68443339e5bafea869de52cf_124a2fd0dd0fe00eafbd00fe8758e2b8_MKBHD%20B-p-800.webp 800w,
+                              images/68443339e5bafea869de52cf_124a2fd0dd0fe00eafbd00fe8758e2b8_MKBHD%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_3.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2053,7 +2124,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/6844333976c1b7f92da30e70_6e5d03f9d3f8fd6082e546a24f1d1e94_MKBHD%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/6844333976c1b7f92da30e70_6e5d03f9d3f8fd6082e546a24f1d1e94_MKBHD%20C-p-500.webp 500w,
+                              images/6844333976c1b7f92da30e70_6e5d03f9d3f8fd6082e546a24f1d1e94_MKBHD%20C-p-800.webp 800w,
+                              images/6844333976c1b7f92da30e70_6e5d03f9d3f8fd6082e546a24f1d1e94_MKBHD%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_3.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2064,7 +2146,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/684433359a7da07ce4b1021a_1500d2f9d4a7efb1cc439d51cfb22b63_Harry%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/684433359a7da07ce4b1021a_1500d2f9d4a7efb1cc439d51cfb22b63_Harry%20A-p-500.webp 500w,
+                            images/684433359a7da07ce4b1021a_1500d2f9d4a7efb1cc439d51cfb22b63_Harry%20A-p-800.webp 800w,
+                            images/684433359a7da07ce4b1021a_1500d2f9d4a7efb1cc439d51cfb22b63_Harry%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_4.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2076,7 +2169,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/68443334298786d342f1a19d_86ae968bb9b0cab74e21bc8146cecf24_Harry%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/68443334298786d342f1a19d_86ae968bb9b0cab74e21bc8146cecf24_Harry%20B-p-500.webp 500w,
+                              images/68443334298786d342f1a19d_86ae968bb9b0cab74e21bc8146cecf24_Harry%20B-p-800.webp 800w,
+                              images/68443334298786d342f1a19d_86ae968bb9b0cab74e21bc8146cecf24_Harry%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_4.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2085,7 +2189,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/68443335504481159f3a5cab_6de30281591640cfa8fe015be229bba8_Harry%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/68443335504481159f3a5cab_6de30281591640cfa8fe015be229bba8_Harry%20C-p-500.webp 500w,
+                              images/68443335504481159f3a5cab_6de30281591640cfa8fe015be229bba8_Harry%20C-p-800.webp 800w,
+                              images/68443335504481159f3a5cab_6de30281591640cfa8fe015be229bba8_Harry%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_4.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2096,7 +2211,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/68443337b0c0076e8690dfb3_e6c027fc7c0e2ee910dc325af14bd3ac_Mads%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443337b0c0076e8690dfb3_e6c027fc7c0e2ee910dc325af14bd3ac_Mads%20A-p-500.webp 500w,
+                            images/68443337b0c0076e8690dfb3_e6c027fc7c0e2ee910dc325af14bd3ac_Mads%20A-p-800.webp 800w,
+                            images/68443337b0c0076e8690dfb3_e6c027fc7c0e2ee910dc325af14bd3ac_Mads%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_5.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2108,7 +2234,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/68443338a2983055e49d4864_d7ab7f150ee6a27b248d4326d1d66463_Mads%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/68443338a2983055e49d4864_d7ab7f150ee6a27b248d4326d1d66463_Mads%20B-p-500.webp 500w,
+                              images/68443338a2983055e49d4864_d7ab7f150ee6a27b248d4326d1d66463_Mads%20B-p-800.webp 800w,
+                              images/68443338a2983055e49d4864_d7ab7f150ee6a27b248d4326d1d66463_Mads%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_5.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2117,7 +2254,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/6844333724542ff47de2747a_d1b018ecfa80376a93835e01bf94770c_Mads%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/6844333724542ff47de2747a_d1b018ecfa80376a93835e01bf94770c_Mads%20C-p-500.webp 500w,
+                              images/6844333724542ff47de2747a_d1b018ecfa80376a93835e01bf94770c_Mads%20C-p-800.webp 800w,
+                              images/6844333724542ff47de2747a_d1b018ecfa80376a93835e01bf94770c_Mads%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_5.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2128,7 +2276,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/68443339600ad988e5b9ee78_347113010d7ec2d846c59ecbc000fd1c_Phil%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443339600ad988e5b9ee78_347113010d7ec2d846c59ecbc000fd1c_Phil%20A-p-500.webp 500w,
+                            images/68443339600ad988e5b9ee78_347113010d7ec2d846c59ecbc000fd1c_Phil%20A-p-800.webp 800w,
+                            images/68443339600ad988e5b9ee78_347113010d7ec2d846c59ecbc000fd1c_Phil%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_6.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2140,7 +2299,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/684433394635034fbae6f938_34ff876d31d60e7be00966d0ad1edcb1_Phil%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/684433394635034fbae6f938_34ff876d31d60e7be00966d0ad1edcb1_Phil%20B-p-500.webp 500w,
+                              images/684433394635034fbae6f938_34ff876d31d60e7be00966d0ad1edcb1_Phil%20B-p-800.webp 800w,
+                              images/684433394635034fbae6f938_34ff876d31d60e7be00966d0ad1edcb1_Phil%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_6.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2149,7 +2319,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/684433391cb96c5fd3417d10_8599f784af2ca9ae5d9ecc53dfe9d0f6_Phil%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/684433391cb96c5fd3417d10_8599f784af2ca9ae5d9ecc53dfe9d0f6_Phil%20C-p-500.webp 500w,
+                              images/684433391cb96c5fd3417d10_8599f784af2ca9ae5d9ecc53dfe9d0f6_Phil%20C-p-800.webp 800w,
+                              images/684433391cb96c5fd3417d10_8599f784af2ca9ae5d9ecc53dfe9d0f6_Phil%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_6.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2160,7 +2341,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/6844333997821d027eb90364_c638805c4431b5f4fc76c5e4b126314c_Charlotte%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/6844333997821d027eb90364_c638805c4431b5f4fc76c5e4b126314c_Charlotte%20A-p-500.webp 500w,
+                            images/6844333997821d027eb90364_c638805c4431b5f4fc76c5e4b126314c_Charlotte%20A-p-800.webp 800w,
+                            images/6844333997821d027eb90364_c638805c4431b5f4fc76c5e4b126314c_Charlotte%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_7.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2172,7 +2364,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/684433374635034fbae6f7e2_1641bf79aa8abea0e3ccdd872e7319fb_Charlotte%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/684433374635034fbae6f7e2_1641bf79aa8abea0e3ccdd872e7319fb_Charlotte%20B-p-500.webp 500w,
+                              images/684433374635034fbae6f7e2_1641bf79aa8abea0e3ccdd872e7319fb_Charlotte%20B-p-800.webp 800w,
+                              images/684433374635034fbae6f7e2_1641bf79aa8abea0e3ccdd872e7319fb_Charlotte%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_7.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2181,7 +2384,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/684433379c824e35c27e7b79_b588818bce348fd95016a980b8392e35_Charlotte%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/684433379c824e35c27e7b79_b588818bce348fd95016a980b8392e35_Charlotte%20C-p-500.webp 500w,
+                              images/684433379c824e35c27e7b79_b588818bce348fd95016a980b8392e35_Charlotte%20C-p-800.webp 800w,
+                              images/684433379c824e35c27e7b79_b588818bce348fd95016a980b8392e35_Charlotte%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_7.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2192,7 +2406,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/68443337fba2622d7172f249_5ba7f28ca83a2846d3f20ae0aa8b16a0_Sandisk%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443337fba2622d7172f249_5ba7f28ca83a2846d3f20ae0aa8b16a0_Sandisk%20A-p-500.webp 500w,
+                            images/68443337fba2622d7172f249_5ba7f28ca83a2846d3f20ae0aa8b16a0_Sandisk%20A-p-800.webp 800w,
+                            images/68443337fba2622d7172f249_5ba7f28ca83a2846d3f20ae0aa8b16a0_Sandisk%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_8.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2204,7 +2429,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/68443337bb11284b09e8be35_fb6921e6d84dd9c78b4797b63362242d_Sandisk%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/68443337bb11284b09e8be35_fb6921e6d84dd9c78b4797b63362242d_Sandisk%20B-p-500.webp 500w,
+                              images/68443337bb11284b09e8be35_fb6921e6d84dd9c78b4797b63362242d_Sandisk%20B-p-800.webp 800w,
+                              images/68443337bb11284b09e8be35_fb6921e6d84dd9c78b4797b63362242d_Sandisk%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_8.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2213,7 +2449,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/684433346cb577eb6037fd38_9b378c6908e3412e76cd87b3c2a94b0d_Sandisk%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/684433346cb577eb6037fd38_9b378c6908e3412e76cd87b3c2a94b0d_Sandisk%20C-p-500.webp 500w,
+                              images/684433346cb577eb6037fd38_9b378c6908e3412e76cd87b3c2a94b0d_Sandisk%20C-p-800.webp 800w,
+                              images/684433346cb577eb6037fd38_9b378c6908e3412e76cd87b3c2a94b0d_Sandisk%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_8.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2224,7 +2471,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/6844333499449ad45d93ea84_04d7773d4ec91b5b0fbdb5efaabaf245_Paolo%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/6844333499449ad45d93ea84_04d7773d4ec91b5b0fbdb5efaabaf245_Paolo%20A-p-500.webp 500w,
+                            images/6844333499449ad45d93ea84_04d7773d4ec91b5b0fbdb5efaabaf245_Paolo%20A-p-800.webp 800w,
+                            images/6844333499449ad45d93ea84_04d7773d4ec91b5b0fbdb5efaabaf245_Paolo%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_9.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2236,7 +2494,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/685149db201ab0527e74e7f0_8758fe8ed98eeadf8911c3d7244dedd6_Paolo%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/685149db201ab0527e74e7f0_8758fe8ed98eeadf8911c3d7244dedd6_Paolo%20B-p-500.webp 500w,
+                              images/685149db201ab0527e74e7f0_8758fe8ed98eeadf8911c3d7244dedd6_Paolo%20B-p-800.webp 800w,
+                              images/685149db201ab0527e74e7f0_8758fe8ed98eeadf8911c3d7244dedd6_Paolo%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_9.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2245,7 +2514,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/685149db9c6d04268757c68c_28f338d00c4c302962efd8038b7f4220_Paolo%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/685149db9c6d04268757c68c_28f338d00c4c302962efd8038b7f4220_Paolo%20C-p-500.webp 500w,
+                              images/685149db9c6d04268757c68c_28f338d00c4c302962efd8038b7f4220_Paolo%20C-p-800.webp 800w,
+                              images/685149db9c6d04268757c68c_28f338d00c4c302962efd8038b7f4220_Paolo%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_9.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2256,7 +2536,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/68443337673bf8b6193e4298_4a357096f85f380fc687a511d10d5f65_Santagato%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443337673bf8b6193e4298_4a357096f85f380fc687a511d10d5f65_Santagato%20A-p-500.webp 500w,
+                            images/68443337673bf8b6193e4298_4a357096f85f380fc687a511d10d5f65_Santagato%20A-p-800.webp 800w,
+                            images/68443337673bf8b6193e4298_4a357096f85f380fc687a511d10d5f65_Santagato%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_1.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2272,7 +2563,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/6844333706391da4f246fff4_f1043c2f32d4e6d180739372d95db537_Santagato%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/6844333706391da4f246fff4_f1043c2f32d4e6d180739372d95db537_Santagato%20B-p-500.webp 500w,
+                              images/6844333706391da4f246fff4_f1043c2f32d4e6d180739372d95db537_Santagato%20B-p-800.webp 800w,
+                              images/6844333706391da4f246fff4_f1043c2f32d4e6d180739372d95db537_Santagato%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_1.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2281,7 +2583,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/6844333726b1d73b26410991_db2783282d6072d64258325404412e24_Santagato%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/6844333726b1d73b26410991_db2783282d6072d64258325404412e24_Santagato%20C-p-500.webp 500w,
+                              images/6844333726b1d73b26410991_db2783282d6072d64258325404412e24_Santagato%20C-p-800.webp 800w,
+                              images/6844333726b1d73b26410991_db2783282d6072d64258325404412e24_Santagato%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_1.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2292,7 +2605,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/684433372da81548f6163c1b_be7ff1ffa4ffc77b023a8ba02c5fd92f_NYMag%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/684433372da81548f6163c1b_be7ff1ffa4ffc77b023a8ba02c5fd92f_NYMag%20A-p-500.webp 500w,
+                            images/684433372da81548f6163c1b_be7ff1ffa4ffc77b023a8ba02c5fd92f_NYMag%20A-p-800.webp 800w,
+                            images/684433372da81548f6163c1b_be7ff1ffa4ffc77b023a8ba02c5fd92f_NYMag%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_2.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2304,7 +2628,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/684433370350bed52f52eb9b_b0cb071799b7780cc8bafb7804f1512a_NYMag%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/684433370350bed52f52eb9b_b0cb071799b7780cc8bafb7804f1512a_NYMag%20B-p-500.webp 500w,
+                              images/684433370350bed52f52eb9b_b0cb071799b7780cc8bafb7804f1512a_NYMag%20B-p-800.webp 800w,
+                              images/684433370350bed52f52eb9b_b0cb071799b7780cc8bafb7804f1512a_NYMag%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_2.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2313,7 +2648,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/68443337972eb0cfe78ffbb5_955e93b2408984ae49908c80634c4246_NYMag%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/68443337972eb0cfe78ffbb5_955e93b2408984ae49908c80634c4246_NYMag%20C-p-500.webp 500w,
+                              images/68443337972eb0cfe78ffbb5_955e93b2408984ae49908c80634c4246_NYMag%20C-p-800.webp 800w,
+                              images/68443337972eb0cfe78ffbb5_955e93b2408984ae49908c80634c4246_NYMag%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_2.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2324,7 +2670,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/68443339f2d2d0490752faba_24da17fdcdbe51c08550b71057b263f6_MKBHD%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443339f2d2d0490752faba_24da17fdcdbe51c08550b71057b263f6_MKBHD%20A-p-500.webp 500w,
+                            images/68443339f2d2d0490752faba_24da17fdcdbe51c08550b71057b263f6_MKBHD%20A-p-800.webp 800w,
+                            images/68443339f2d2d0490752faba_24da17fdcdbe51c08550b71057b263f6_MKBHD%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_3.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2336,7 +2693,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/68443339e5bafea869de52cf_124a2fd0dd0fe00eafbd00fe8758e2b8_MKBHD%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/68443339e5bafea869de52cf_124a2fd0dd0fe00eafbd00fe8758e2b8_MKBHD%20B-p-500.webp 500w,
+                              images/68443339e5bafea869de52cf_124a2fd0dd0fe00eafbd00fe8758e2b8_MKBHD%20B-p-800.webp 800w,
+                              images/68443339e5bafea869de52cf_124a2fd0dd0fe00eafbd00fe8758e2b8_MKBHD%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_3.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2345,7 +2713,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/6844333976c1b7f92da30e70_6e5d03f9d3f8fd6082e546a24f1d1e94_MKBHD%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/6844333976c1b7f92da30e70_6e5d03f9d3f8fd6082e546a24f1d1e94_MKBHD%20C-p-500.webp 500w,
+                              images/6844333976c1b7f92da30e70_6e5d03f9d3f8fd6082e546a24f1d1e94_MKBHD%20C-p-800.webp 800w,
+                              images/6844333976c1b7f92da30e70_6e5d03f9d3f8fd6082e546a24f1d1e94_MKBHD%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_3.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2356,7 +2735,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/684433359a7da07ce4b1021a_1500d2f9d4a7efb1cc439d51cfb22b63_Harry%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/684433359a7da07ce4b1021a_1500d2f9d4a7efb1cc439d51cfb22b63_Harry%20A-p-500.webp 500w,
+                            images/684433359a7da07ce4b1021a_1500d2f9d4a7efb1cc439d51cfb22b63_Harry%20A-p-800.webp 800w,
+                            images/684433359a7da07ce4b1021a_1500d2f9d4a7efb1cc439d51cfb22b63_Harry%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_4.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2368,7 +2758,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/68443334298786d342f1a19d_86ae968bb9b0cab74e21bc8146cecf24_Harry%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/68443334298786d342f1a19d_86ae968bb9b0cab74e21bc8146cecf24_Harry%20B-p-500.webp 500w,
+                              images/68443334298786d342f1a19d_86ae968bb9b0cab74e21bc8146cecf24_Harry%20B-p-800.webp 800w,
+                              images/68443334298786d342f1a19d_86ae968bb9b0cab74e21bc8146cecf24_Harry%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_4.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2377,7 +2778,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/68443335504481159f3a5cab_6de30281591640cfa8fe015be229bba8_Harry%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/68443335504481159f3a5cab_6de30281591640cfa8fe015be229bba8_Harry%20C-p-500.webp 500w,
+                              images/68443335504481159f3a5cab_6de30281591640cfa8fe015be229bba8_Harry%20C-p-800.webp 800w,
+                              images/68443335504481159f3a5cab_6de30281591640cfa8fe015be229bba8_Harry%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_4.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2388,7 +2800,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/68443337b0c0076e8690dfb3_e6c027fc7c0e2ee910dc325af14bd3ac_Mads%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443337b0c0076e8690dfb3_e6c027fc7c0e2ee910dc325af14bd3ac_Mads%20A-p-500.webp 500w,
+                            images/68443337b0c0076e8690dfb3_e6c027fc7c0e2ee910dc325af14bd3ac_Mads%20A-p-800.webp 800w,
+                            images/68443337b0c0076e8690dfb3_e6c027fc7c0e2ee910dc325af14bd3ac_Mads%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_5.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2400,7 +2823,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/68443338a2983055e49d4864_d7ab7f150ee6a27b248d4326d1d66463_Mads%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/68443338a2983055e49d4864_d7ab7f150ee6a27b248d4326d1d66463_Mads%20B-p-500.webp 500w,
+                              images/68443338a2983055e49d4864_d7ab7f150ee6a27b248d4326d1d66463_Mads%20B-p-800.webp 800w,
+                              images/68443338a2983055e49d4864_d7ab7f150ee6a27b248d4326d1d66463_Mads%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_5.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2409,7 +2843,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/6844333724542ff47de2747a_d1b018ecfa80376a93835e01bf94770c_Mads%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/6844333724542ff47de2747a_d1b018ecfa80376a93835e01bf94770c_Mads%20C-p-500.webp 500w,
+                              images/6844333724542ff47de2747a_d1b018ecfa80376a93835e01bf94770c_Mads%20C-p-800.webp 800w,
+                              images/6844333724542ff47de2747a_d1b018ecfa80376a93835e01bf94770c_Mads%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_5.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2420,7 +2865,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/68443339600ad988e5b9ee78_347113010d7ec2d846c59ecbc000fd1c_Phil%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443339600ad988e5b9ee78_347113010d7ec2d846c59ecbc000fd1c_Phil%20A-p-500.webp 500w,
+                            images/68443339600ad988e5b9ee78_347113010d7ec2d846c59ecbc000fd1c_Phil%20A-p-800.webp 800w,
+                            images/68443339600ad988e5b9ee78_347113010d7ec2d846c59ecbc000fd1c_Phil%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_6.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2432,7 +2888,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/684433394635034fbae6f938_34ff876d31d60e7be00966d0ad1edcb1_Phil%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/684433394635034fbae6f938_34ff876d31d60e7be00966d0ad1edcb1_Phil%20B-p-500.webp 500w,
+                              images/684433394635034fbae6f938_34ff876d31d60e7be00966d0ad1edcb1_Phil%20B-p-800.webp 800w,
+                              images/684433394635034fbae6f938_34ff876d31d60e7be00966d0ad1edcb1_Phil%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_6.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2441,7 +2908,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/684433391cb96c5fd3417d10_8599f784af2ca9ae5d9ecc53dfe9d0f6_Phil%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/684433391cb96c5fd3417d10_8599f784af2ca9ae5d9ecc53dfe9d0f6_Phil%20C-p-500.webp 500w,
+                              images/684433391cb96c5fd3417d10_8599f784af2ca9ae5d9ecc53dfe9d0f6_Phil%20C-p-800.webp 800w,
+                              images/684433391cb96c5fd3417d10_8599f784af2ca9ae5d9ecc53dfe9d0f6_Phil%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_6.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2452,7 +2930,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/6844333997821d027eb90364_c638805c4431b5f4fc76c5e4b126314c_Charlotte%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/6844333997821d027eb90364_c638805c4431b5f4fc76c5e4b126314c_Charlotte%20A-p-500.webp 500w,
+                            images/6844333997821d027eb90364_c638805c4431b5f4fc76c5e4b126314c_Charlotte%20A-p-800.webp 800w,
+                            images/6844333997821d027eb90364_c638805c4431b5f4fc76c5e4b126314c_Charlotte%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_7.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2464,7 +2953,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/684433374635034fbae6f7e2_1641bf79aa8abea0e3ccdd872e7319fb_Charlotte%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/684433374635034fbae6f7e2_1641bf79aa8abea0e3ccdd872e7319fb_Charlotte%20B-p-500.webp 500w,
+                              images/684433374635034fbae6f7e2_1641bf79aa8abea0e3ccdd872e7319fb_Charlotte%20B-p-800.webp 800w,
+                              images/684433374635034fbae6f7e2_1641bf79aa8abea0e3ccdd872e7319fb_Charlotte%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_7.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2473,7 +2973,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/684433379c824e35c27e7b79_b588818bce348fd95016a980b8392e35_Charlotte%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/684433379c824e35c27e7b79_b588818bce348fd95016a980b8392e35_Charlotte%20C-p-500.webp 500w,
+                              images/684433379c824e35c27e7b79_b588818bce348fd95016a980b8392e35_Charlotte%20C-p-800.webp 800w,
+                              images/684433379c824e35c27e7b79_b588818bce348fd95016a980b8392e35_Charlotte%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_7.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2484,7 +2995,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/68443337fba2622d7172f249_5ba7f28ca83a2846d3f20ae0aa8b16a0_Sandisk%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443337fba2622d7172f249_5ba7f28ca83a2846d3f20ae0aa8b16a0_Sandisk%20A-p-500.webp 500w,
+                            images/68443337fba2622d7172f249_5ba7f28ca83a2846d3f20ae0aa8b16a0_Sandisk%20A-p-800.webp 800w,
+                            images/68443337fba2622d7172f249_5ba7f28ca83a2846d3f20ae0aa8b16a0_Sandisk%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_8.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2496,7 +3018,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/68443337bb11284b09e8be35_fb6921e6d84dd9c78b4797b63362242d_Sandisk%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/68443337bb11284b09e8be35_fb6921e6d84dd9c78b4797b63362242d_Sandisk%20B-p-500.webp 500w,
+                              images/68443337bb11284b09e8be35_fb6921e6d84dd9c78b4797b63362242d_Sandisk%20B-p-800.webp 800w,
+                              images/68443337bb11284b09e8be35_fb6921e6d84dd9c78b4797b63362242d_Sandisk%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_8.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2505,7 +3038,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/684433346cb577eb6037fd38_9b378c6908e3412e76cd87b3c2a94b0d_Sandisk%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/684433346cb577eb6037fd38_9b378c6908e3412e76cd87b3c2a94b0d_Sandisk%20C-p-500.webp 500w,
+                              images/684433346cb577eb6037fd38_9b378c6908e3412e76cd87b3c2a94b0d_Sandisk%20C-p-800.webp 800w,
+                              images/684433346cb577eb6037fd38_9b378c6908e3412e76cd87b3c2a94b0d_Sandisk%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_8.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2516,7 +3060,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/6844333499449ad45d93ea84_04d7773d4ec91b5b0fbdb5efaabaf245_Paolo%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/6844333499449ad45d93ea84_04d7773d4ec91b5b0fbdb5efaabaf245_Paolo%20A-p-500.webp 500w,
+                            images/6844333499449ad45d93ea84_04d7773d4ec91b5b0fbdb5efaabaf245_Paolo%20A-p-800.webp 800w,
+                            images/6844333499449ad45d93ea84_04d7773d4ec91b5b0fbdb5efaabaf245_Paolo%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_9.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2528,7 +3083,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/685149db201ab0527e74e7f0_8758fe8ed98eeadf8911c3d7244dedd6_Paolo%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/685149db201ab0527e74e7f0_8758fe8ed98eeadf8911c3d7244dedd6_Paolo%20B-p-500.webp 500w,
+                              images/685149db201ab0527e74e7f0_8758fe8ed98eeadf8911c3d7244dedd6_Paolo%20B-p-800.webp 800w,
+                              images/685149db201ab0527e74e7f0_8758fe8ed98eeadf8911c3d7244dedd6_Paolo%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_9.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2537,7 +3103,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/685149db9c6d04268757c68c_28f338d00c4c302962efd8038b7f4220_Paolo%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/685149db9c6d04268757c68c_28f338d00c4c302962efd8038b7f4220_Paolo%20C-p-500.webp 500w,
+                              images/685149db9c6d04268757c68c_28f338d00c4c302962efd8038b7f4220_Paolo%20C-p-800.webp 800w,
+                              images/685149db9c6d04268757c68c_28f338d00c4c302962efd8038b7f4220_Paolo%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_9.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2548,7 +3125,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/68443337673bf8b6193e4298_4a357096f85f380fc687a511d10d5f65_Santagato%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443337673bf8b6193e4298_4a357096f85f380fc687a511d10d5f65_Santagato%20A-p-500.webp 500w,
+                            images/68443337673bf8b6193e4298_4a357096f85f380fc687a511d10d5f65_Santagato%20A-p-800.webp 800w,
+                            images/68443337673bf8b6193e4298_4a357096f85f380fc687a511d10d5f65_Santagato%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_1.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2564,7 +3152,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/6844333706391da4f246fff4_f1043c2f32d4e6d180739372d95db537_Santagato%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/6844333706391da4f246fff4_f1043c2f32d4e6d180739372d95db537_Santagato%20B-p-500.webp 500w,
+                              images/6844333706391da4f246fff4_f1043c2f32d4e6d180739372d95db537_Santagato%20B-p-800.webp 800w,
+                              images/6844333706391da4f246fff4_f1043c2f32d4e6d180739372d95db537_Santagato%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_1.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2573,7 +3172,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/6844333726b1d73b26410991_db2783282d6072d64258325404412e24_Santagato%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/6844333726b1d73b26410991_db2783282d6072d64258325404412e24_Santagato%20C-p-500.webp 500w,
+                              images/6844333726b1d73b26410991_db2783282d6072d64258325404412e24_Santagato%20C-p-800.webp 800w,
+                              images/6844333726b1d73b26410991_db2783282d6072d64258325404412e24_Santagato%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_1.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2584,7 +3194,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/684433372da81548f6163c1b_be7ff1ffa4ffc77b023a8ba02c5fd92f_NYMag%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/684433372da81548f6163c1b_be7ff1ffa4ffc77b023a8ba02c5fd92f_NYMag%20A-p-500.webp 500w,
+                            images/684433372da81548f6163c1b_be7ff1ffa4ffc77b023a8ba02c5fd92f_NYMag%20A-p-800.webp 800w,
+                            images/684433372da81548f6163c1b_be7ff1ffa4ffc77b023a8ba02c5fd92f_NYMag%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_2.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2596,7 +3217,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/684433370350bed52f52eb9b_b0cb071799b7780cc8bafb7804f1512a_NYMag%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/684433370350bed52f52eb9b_b0cb071799b7780cc8bafb7804f1512a_NYMag%20B-p-500.webp 500w,
+                              images/684433370350bed52f52eb9b_b0cb071799b7780cc8bafb7804f1512a_NYMag%20B-p-800.webp 800w,
+                              images/684433370350bed52f52eb9b_b0cb071799b7780cc8bafb7804f1512a_NYMag%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_2.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2605,7 +3237,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/68443337972eb0cfe78ffbb5_955e93b2408984ae49908c80634c4246_NYMag%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/68443337972eb0cfe78ffbb5_955e93b2408984ae49908c80634c4246_NYMag%20C-p-500.webp 500w,
+                              images/68443337972eb0cfe78ffbb5_955e93b2408984ae49908c80634c4246_NYMag%20C-p-800.webp 800w,
+                              images/68443337972eb0cfe78ffbb5_955e93b2408984ae49908c80634c4246_NYMag%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_2.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2616,7 +3259,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/68443339f2d2d0490752faba_24da17fdcdbe51c08550b71057b263f6_MKBHD%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443339f2d2d0490752faba_24da17fdcdbe51c08550b71057b263f6_MKBHD%20A-p-500.webp 500w,
+                            images/68443339f2d2d0490752faba_24da17fdcdbe51c08550b71057b263f6_MKBHD%20A-p-800.webp 800w,
+                            images/68443339f2d2d0490752faba_24da17fdcdbe51c08550b71057b263f6_MKBHD%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_3.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2628,7 +3282,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/68443339e5bafea869de52cf_124a2fd0dd0fe00eafbd00fe8758e2b8_MKBHD%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/68443339e5bafea869de52cf_124a2fd0dd0fe00eafbd00fe8758e2b8_MKBHD%20B-p-500.webp 500w,
+                              images/68443339e5bafea869de52cf_124a2fd0dd0fe00eafbd00fe8758e2b8_MKBHD%20B-p-800.webp 800w,
+                              images/68443339e5bafea869de52cf_124a2fd0dd0fe00eafbd00fe8758e2b8_MKBHD%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_3.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2637,7 +3302,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/6844333976c1b7f92da30e70_6e5d03f9d3f8fd6082e546a24f1d1e94_MKBHD%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/6844333976c1b7f92da30e70_6e5d03f9d3f8fd6082e546a24f1d1e94_MKBHD%20C-p-500.webp 500w,
+                              images/6844333976c1b7f92da30e70_6e5d03f9d3f8fd6082e546a24f1d1e94_MKBHD%20C-p-800.webp 800w,
+                              images/6844333976c1b7f92da30e70_6e5d03f9d3f8fd6082e546a24f1d1e94_MKBHD%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_3.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2648,7 +3324,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/684433359a7da07ce4b1021a_1500d2f9d4a7efb1cc439d51cfb22b63_Harry%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/684433359a7da07ce4b1021a_1500d2f9d4a7efb1cc439d51cfb22b63_Harry%20A-p-500.webp 500w,
+                            images/684433359a7da07ce4b1021a_1500d2f9d4a7efb1cc439d51cfb22b63_Harry%20A-p-800.webp 800w,
+                            images/684433359a7da07ce4b1021a_1500d2f9d4a7efb1cc439d51cfb22b63_Harry%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_4.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2660,7 +3347,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/68443334298786d342f1a19d_86ae968bb9b0cab74e21bc8146cecf24_Harry%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/68443334298786d342f1a19d_86ae968bb9b0cab74e21bc8146cecf24_Harry%20B-p-500.webp 500w,
+                              images/68443334298786d342f1a19d_86ae968bb9b0cab74e21bc8146cecf24_Harry%20B-p-800.webp 800w,
+                              images/68443334298786d342f1a19d_86ae968bb9b0cab74e21bc8146cecf24_Harry%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_4.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2669,7 +3367,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/68443335504481159f3a5cab_6de30281591640cfa8fe015be229bba8_Harry%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/68443335504481159f3a5cab_6de30281591640cfa8fe015be229bba8_Harry%20C-p-500.webp 500w,
+                              images/68443335504481159f3a5cab_6de30281591640cfa8fe015be229bba8_Harry%20C-p-800.webp 800w,
+                              images/68443335504481159f3a5cab_6de30281591640cfa8fe015be229bba8_Harry%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_4.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2680,7 +3389,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/68443337b0c0076e8690dfb3_e6c027fc7c0e2ee910dc325af14bd3ac_Mads%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443337b0c0076e8690dfb3_e6c027fc7c0e2ee910dc325af14bd3ac_Mads%20A-p-500.webp 500w,
+                            images/68443337b0c0076e8690dfb3_e6c027fc7c0e2ee910dc325af14bd3ac_Mads%20A-p-800.webp 800w,
+                            images/68443337b0c0076e8690dfb3_e6c027fc7c0e2ee910dc325af14bd3ac_Mads%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_5.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2692,7 +3412,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/68443338a2983055e49d4864_d7ab7f150ee6a27b248d4326d1d66463_Mads%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/68443338a2983055e49d4864_d7ab7f150ee6a27b248d4326d1d66463_Mads%20B-p-500.webp 500w,
+                              images/68443338a2983055e49d4864_d7ab7f150ee6a27b248d4326d1d66463_Mads%20B-p-800.webp 800w,
+                              images/68443338a2983055e49d4864_d7ab7f150ee6a27b248d4326d1d66463_Mads%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_5.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2701,7 +3432,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/6844333724542ff47de2747a_d1b018ecfa80376a93835e01bf94770c_Mads%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/6844333724542ff47de2747a_d1b018ecfa80376a93835e01bf94770c_Mads%20C-p-500.webp 500w,
+                              images/6844333724542ff47de2747a_d1b018ecfa80376a93835e01bf94770c_Mads%20C-p-800.webp 800w,
+                              images/6844333724542ff47de2747a_d1b018ecfa80376a93835e01bf94770c_Mads%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_5.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2712,7 +3454,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/68443339600ad988e5b9ee78_347113010d7ec2d846c59ecbc000fd1c_Phil%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443339600ad988e5b9ee78_347113010d7ec2d846c59ecbc000fd1c_Phil%20A-p-500.webp 500w,
+                            images/68443339600ad988e5b9ee78_347113010d7ec2d846c59ecbc000fd1c_Phil%20A-p-800.webp 800w,
+                            images/68443339600ad988e5b9ee78_347113010d7ec2d846c59ecbc000fd1c_Phil%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_6.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2724,7 +3477,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/684433394635034fbae6f938_34ff876d31d60e7be00966d0ad1edcb1_Phil%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/684433394635034fbae6f938_34ff876d31d60e7be00966d0ad1edcb1_Phil%20B-p-500.webp 500w,
+                              images/684433394635034fbae6f938_34ff876d31d60e7be00966d0ad1edcb1_Phil%20B-p-800.webp 800w,
+                              images/684433394635034fbae6f938_34ff876d31d60e7be00966d0ad1edcb1_Phil%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_6.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2733,7 +3497,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/684433391cb96c5fd3417d10_8599f784af2ca9ae5d9ecc53dfe9d0f6_Phil%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/684433391cb96c5fd3417d10_8599f784af2ca9ae5d9ecc53dfe9d0f6_Phil%20C-p-500.webp 500w,
+                              images/684433391cb96c5fd3417d10_8599f784af2ca9ae5d9ecc53dfe9d0f6_Phil%20C-p-800.webp 800w,
+                              images/684433391cb96c5fd3417d10_8599f784af2ca9ae5d9ecc53dfe9d0f6_Phil%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_6.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2744,7 +3519,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/6844333997821d027eb90364_c638805c4431b5f4fc76c5e4b126314c_Charlotte%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/6844333997821d027eb90364_c638805c4431b5f4fc76c5e4b126314c_Charlotte%20A-p-500.webp 500w,
+                            images/6844333997821d027eb90364_c638805c4431b5f4fc76c5e4b126314c_Charlotte%20A-p-800.webp 800w,
+                            images/6844333997821d027eb90364_c638805c4431b5f4fc76c5e4b126314c_Charlotte%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_7.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2756,7 +3542,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/684433374635034fbae6f7e2_1641bf79aa8abea0e3ccdd872e7319fb_Charlotte%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/684433374635034fbae6f7e2_1641bf79aa8abea0e3ccdd872e7319fb_Charlotte%20B-p-500.webp 500w,
+                              images/684433374635034fbae6f7e2_1641bf79aa8abea0e3ccdd872e7319fb_Charlotte%20B-p-800.webp 800w,
+                              images/684433374635034fbae6f7e2_1641bf79aa8abea0e3ccdd872e7319fb_Charlotte%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_7.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2765,7 +3562,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/684433379c824e35c27e7b79_b588818bce348fd95016a980b8392e35_Charlotte%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/684433379c824e35c27e7b79_b588818bce348fd95016a980b8392e35_Charlotte%20C-p-500.webp 500w,
+                              images/684433379c824e35c27e7b79_b588818bce348fd95016a980b8392e35_Charlotte%20C-p-800.webp 800w,
+                              images/684433379c824e35c27e7b79_b588818bce348fd95016a980b8392e35_Charlotte%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_7.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2776,7 +3584,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/68443337fba2622d7172f249_5ba7f28ca83a2846d3f20ae0aa8b16a0_Sandisk%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443337fba2622d7172f249_5ba7f28ca83a2846d3f20ae0aa8b16a0_Sandisk%20A-p-500.webp 500w,
+                            images/68443337fba2622d7172f249_5ba7f28ca83a2846d3f20ae0aa8b16a0_Sandisk%20A-p-800.webp 800w,
+                            images/68443337fba2622d7172f249_5ba7f28ca83a2846d3f20ae0aa8b16a0_Sandisk%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_8.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2788,7 +3607,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/68443337bb11284b09e8be35_fb6921e6d84dd9c78b4797b63362242d_Sandisk%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/68443337bb11284b09e8be35_fb6921e6d84dd9c78b4797b63362242d_Sandisk%20B-p-500.webp 500w,
+                              images/68443337bb11284b09e8be35_fb6921e6d84dd9c78b4797b63362242d_Sandisk%20B-p-800.webp 800w,
+                              images/68443337bb11284b09e8be35_fb6921e6d84dd9c78b4797b63362242d_Sandisk%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_8.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2797,7 +3627,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/684433346cb577eb6037fd38_9b378c6908e3412e76cd87b3c2a94b0d_Sandisk%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/684433346cb577eb6037fd38_9b378c6908e3412e76cd87b3c2a94b0d_Sandisk%20C-p-500.webp 500w,
+                              images/684433346cb577eb6037fd38_9b378c6908e3412e76cd87b3c2a94b0d_Sandisk%20C-p-800.webp 800w,
+                              images/684433346cb577eb6037fd38_9b378c6908e3412e76cd87b3c2a94b0d_Sandisk%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_8.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2808,7 +3649,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/6844333499449ad45d93ea84_04d7773d4ec91b5b0fbdb5efaabaf245_Paolo%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/6844333499449ad45d93ea84_04d7773d4ec91b5b0fbdb5efaabaf245_Paolo%20A-p-500.webp 500w,
+                            images/6844333499449ad45d93ea84_04d7773d4ec91b5b0fbdb5efaabaf245_Paolo%20A-p-800.webp 800w,
+                            images/6844333499449ad45d93ea84_04d7773d4ec91b5b0fbdb5efaabaf245_Paolo%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_9.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2820,7 +3672,18 @@
                     <div class="main-carousel-column">
                       <div class="_50-50-carousel">
                         <div class="carousel-item-upper">
-                          <a
+                          <img
+                            src="images/685149db201ab0527e74e7f0_8758fe8ed98eeadf8911c3d7244dedd6_Paolo%20B.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/685149db201ab0527e74e7f0_8758fe8ed98eeadf8911c3d7244dedd6_Paolo%20B-p-500.webp 500w,
+                              images/685149db201ab0527e74e7f0_8758fe8ed98eeadf8911c3d7244dedd6_Paolo%20B-p-800.webp 800w,
+                              images/685149db201ab0527e74e7f0_8758fe8ed98eeadf8911c3d7244dedd6_Paolo%20B.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_9.html"
                             target="_blank"
                             data-wf-event-ids=""
@@ -2829,7 +3692,18 @@
                           ></a>
                         </div>
                         <div class="carousel-item">
-                          <a
+                          <img
+                            src="images/685149db9c6d04268757c68c_28f338d00c4c302962efd8038b7f4220_Paolo%20C.webp"
+                            loading="eager"
+                            alt=""
+                            sizes="(max-width: 900px) 100vw, 900px"
+                            srcset="
+                              images/685149db9c6d04268757c68c_28f338d00c4c302962efd8038b7f4220_Paolo%20C-p-500.webp 500w,
+                              images/685149db9c6d04268757c68c_28f338d00c4c302962efd8038b7f4220_Paolo%20C-p-800.webp 800w,
+                              images/685149db9c6d04268757c68c_28f338d00c4c302962efd8038b7f4220_Paolo%20C.webp       900w
+                            "
+                            class="main-carousel-item-image"
+                          /><a
                             href="index_9.html"
                             target="_blank"
                             class="carousel-item-link"
@@ -2840,7 +3714,18 @@
                     </div>
                     <div class="main-carousel-column">
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/68443337673bf8b6193e4298_4a357096f85f380fc687a511d10d5f65_Santagato%20A.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443337673bf8b6193e4298_4a357096f85f380fc687a511d10d5f65_Santagato%20A-p-500.webp 500w,
+                            images/68443337673bf8b6193e4298_4a357096f85f380fc687a511d10d5f65_Santagato%20A-p-800.webp 800w,
+                            images/68443337673bf8b6193e4298_4a357096f85f380fc687a511d10d5f65_Santagato%20A.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_1.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2859,7 +3744,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/6844333706391da4f246fff4_f1043c2f32d4e6d180739372d95db537_Santagato%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/6844333706391da4f246fff4_f1043c2f32d4e6d180739372d95db537_Santagato%20B-p-500.webp 500w,
+                            images/6844333706391da4f246fff4_f1043c2f32d4e6d180739372d95db537_Santagato%20B-p-800.webp 800w,
+                            images/6844333706391da4f246fff4_f1043c2f32d4e6d180739372d95db537_Santagato%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_1.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -2868,7 +3764,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/6844333726b1d73b26410991_db2783282d6072d64258325404412e24_Santagato%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/6844333726b1d73b26410991_db2783282d6072d64258325404412e24_Santagato%20C-p-500.webp 500w,
+                            images/6844333726b1d73b26410991_db2783282d6072d64258325404412e24_Santagato%20C-p-800.webp 800w,
+                            images/6844333726b1d73b26410991_db2783282d6072d64258325404412e24_Santagato%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_1.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2879,7 +3786,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/684433372da81548f6163c1b_be7ff1ffa4ffc77b023a8ba02c5fd92f_NYMag%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/684433372da81548f6163c1b_be7ff1ffa4ffc77b023a8ba02c5fd92f_NYMag%20A-p-500.webp 500w,
+                          images/684433372da81548f6163c1b_be7ff1ffa4ffc77b023a8ba02c5fd92f_NYMag%20A-p-800.webp 800w,
+                          images/684433372da81548f6163c1b_be7ff1ffa4ffc77b023a8ba02c5fd92f_NYMag%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_2.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -2891,7 +3809,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/684433370350bed52f52eb9b_b0cb071799b7780cc8bafb7804f1512a_NYMag%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/684433370350bed52f52eb9b_b0cb071799b7780cc8bafb7804f1512a_NYMag%20B-p-500.webp 500w,
+                            images/684433370350bed52f52eb9b_b0cb071799b7780cc8bafb7804f1512a_NYMag%20B-p-800.webp 800w,
+                            images/684433370350bed52f52eb9b_b0cb071799b7780cc8bafb7804f1512a_NYMag%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_2.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -2900,7 +3829,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/68443337972eb0cfe78ffbb5_955e93b2408984ae49908c80634c4246_NYMag%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443337972eb0cfe78ffbb5_955e93b2408984ae49908c80634c4246_NYMag%20C-p-500.webp 500w,
+                            images/68443337972eb0cfe78ffbb5_955e93b2408984ae49908c80634c4246_NYMag%20C-p-800.webp 800w,
+                            images/68443337972eb0cfe78ffbb5_955e93b2408984ae49908c80634c4246_NYMag%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_2.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2911,7 +3851,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/68443339f2d2d0490752faba_24da17fdcdbe51c08550b71057b263f6_MKBHD%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/68443339f2d2d0490752faba_24da17fdcdbe51c08550b71057b263f6_MKBHD%20A-p-500.webp 500w,
+                          images/68443339f2d2d0490752faba_24da17fdcdbe51c08550b71057b263f6_MKBHD%20A-p-800.webp 800w,
+                          images/68443339f2d2d0490752faba_24da17fdcdbe51c08550b71057b263f6_MKBHD%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_3.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -2923,7 +3874,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/68443339e5bafea869de52cf_124a2fd0dd0fe00eafbd00fe8758e2b8_MKBHD%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443339e5bafea869de52cf_124a2fd0dd0fe00eafbd00fe8758e2b8_MKBHD%20B-p-500.webp 500w,
+                            images/68443339e5bafea869de52cf_124a2fd0dd0fe00eafbd00fe8758e2b8_MKBHD%20B-p-800.webp 800w,
+                            images/68443339e5bafea869de52cf_124a2fd0dd0fe00eafbd00fe8758e2b8_MKBHD%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_3.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -2932,7 +3894,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/6844333976c1b7f92da30e70_6e5d03f9d3f8fd6082e546a24f1d1e94_MKBHD%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/6844333976c1b7f92da30e70_6e5d03f9d3f8fd6082e546a24f1d1e94_MKBHD%20C-p-500.webp 500w,
+                            images/6844333976c1b7f92da30e70_6e5d03f9d3f8fd6082e546a24f1d1e94_MKBHD%20C-p-800.webp 800w,
+                            images/6844333976c1b7f92da30e70_6e5d03f9d3f8fd6082e546a24f1d1e94_MKBHD%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_3.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2943,7 +3916,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/684433359a7da07ce4b1021a_1500d2f9d4a7efb1cc439d51cfb22b63_Harry%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/684433359a7da07ce4b1021a_1500d2f9d4a7efb1cc439d51cfb22b63_Harry%20A-p-500.webp 500w,
+                          images/684433359a7da07ce4b1021a_1500d2f9d4a7efb1cc439d51cfb22b63_Harry%20A-p-800.webp 800w,
+                          images/684433359a7da07ce4b1021a_1500d2f9d4a7efb1cc439d51cfb22b63_Harry%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_4.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -2955,7 +3939,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/68443334298786d342f1a19d_86ae968bb9b0cab74e21bc8146cecf24_Harry%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443334298786d342f1a19d_86ae968bb9b0cab74e21bc8146cecf24_Harry%20B-p-500.webp 500w,
+                            images/68443334298786d342f1a19d_86ae968bb9b0cab74e21bc8146cecf24_Harry%20B-p-800.webp 800w,
+                            images/68443334298786d342f1a19d_86ae968bb9b0cab74e21bc8146cecf24_Harry%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_4.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -2964,7 +3959,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/68443335504481159f3a5cab_6de30281591640cfa8fe015be229bba8_Harry%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443335504481159f3a5cab_6de30281591640cfa8fe015be229bba8_Harry%20C-p-500.webp 500w,
+                            images/68443335504481159f3a5cab_6de30281591640cfa8fe015be229bba8_Harry%20C-p-800.webp 800w,
+                            images/68443335504481159f3a5cab_6de30281591640cfa8fe015be229bba8_Harry%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_4.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -2975,7 +3981,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/68443337b0c0076e8690dfb3_e6c027fc7c0e2ee910dc325af14bd3ac_Mads%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/68443337b0c0076e8690dfb3_e6c027fc7c0e2ee910dc325af14bd3ac_Mads%20A-p-500.webp 500w,
+                          images/68443337b0c0076e8690dfb3_e6c027fc7c0e2ee910dc325af14bd3ac_Mads%20A-p-800.webp 800w,
+                          images/68443337b0c0076e8690dfb3_e6c027fc7c0e2ee910dc325af14bd3ac_Mads%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_5.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -2987,7 +4004,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/68443338a2983055e49d4864_d7ab7f150ee6a27b248d4326d1d66463_Mads%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443338a2983055e49d4864_d7ab7f150ee6a27b248d4326d1d66463_Mads%20B-p-500.webp 500w,
+                            images/68443338a2983055e49d4864_d7ab7f150ee6a27b248d4326d1d66463_Mads%20B-p-800.webp 800w,
+                            images/68443338a2983055e49d4864_d7ab7f150ee6a27b248d4326d1d66463_Mads%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_5.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -2996,7 +4024,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/6844333724542ff47de2747a_d1b018ecfa80376a93835e01bf94770c_Mads%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/6844333724542ff47de2747a_d1b018ecfa80376a93835e01bf94770c_Mads%20C-p-500.webp 500w,
+                            images/6844333724542ff47de2747a_d1b018ecfa80376a93835e01bf94770c_Mads%20C-p-800.webp 800w,
+                            images/6844333724542ff47de2747a_d1b018ecfa80376a93835e01bf94770c_Mads%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_5.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -3007,7 +4046,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/68443339600ad988e5b9ee78_347113010d7ec2d846c59ecbc000fd1c_Phil%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/68443339600ad988e5b9ee78_347113010d7ec2d846c59ecbc000fd1c_Phil%20A-p-500.webp 500w,
+                          images/68443339600ad988e5b9ee78_347113010d7ec2d846c59ecbc000fd1c_Phil%20A-p-800.webp 800w,
+                          images/68443339600ad988e5b9ee78_347113010d7ec2d846c59ecbc000fd1c_Phil%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_6.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -3019,7 +4069,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/684433394635034fbae6f938_34ff876d31d60e7be00966d0ad1edcb1_Phil%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/684433394635034fbae6f938_34ff876d31d60e7be00966d0ad1edcb1_Phil%20B-p-500.webp 500w,
+                            images/684433394635034fbae6f938_34ff876d31d60e7be00966d0ad1edcb1_Phil%20B-p-800.webp 800w,
+                            images/684433394635034fbae6f938_34ff876d31d60e7be00966d0ad1edcb1_Phil%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_6.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -3028,7 +4089,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/684433391cb96c5fd3417d10_8599f784af2ca9ae5d9ecc53dfe9d0f6_Phil%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/684433391cb96c5fd3417d10_8599f784af2ca9ae5d9ecc53dfe9d0f6_Phil%20C-p-500.webp 500w,
+                            images/684433391cb96c5fd3417d10_8599f784af2ca9ae5d9ecc53dfe9d0f6_Phil%20C-p-800.webp 800w,
+                            images/684433391cb96c5fd3417d10_8599f784af2ca9ae5d9ecc53dfe9d0f6_Phil%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_6.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -3039,7 +4111,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/6844333997821d027eb90364_c638805c4431b5f4fc76c5e4b126314c_Charlotte%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/6844333997821d027eb90364_c638805c4431b5f4fc76c5e4b126314c_Charlotte%20A-p-500.webp 500w,
+                          images/6844333997821d027eb90364_c638805c4431b5f4fc76c5e4b126314c_Charlotte%20A-p-800.webp 800w,
+                          images/6844333997821d027eb90364_c638805c4431b5f4fc76c5e4b126314c_Charlotte%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_7.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -3051,7 +4134,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/684433374635034fbae6f7e2_1641bf79aa8abea0e3ccdd872e7319fb_Charlotte%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/684433374635034fbae6f7e2_1641bf79aa8abea0e3ccdd872e7319fb_Charlotte%20B-p-500.webp 500w,
+                            images/684433374635034fbae6f7e2_1641bf79aa8abea0e3ccdd872e7319fb_Charlotte%20B-p-800.webp 800w,
+                            images/684433374635034fbae6f7e2_1641bf79aa8abea0e3ccdd872e7319fb_Charlotte%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_7.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -3060,7 +4154,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/684433379c824e35c27e7b79_b588818bce348fd95016a980b8392e35_Charlotte%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/684433379c824e35c27e7b79_b588818bce348fd95016a980b8392e35_Charlotte%20C-p-500.webp 500w,
+                            images/684433379c824e35c27e7b79_b588818bce348fd95016a980b8392e35_Charlotte%20C-p-800.webp 800w,
+                            images/684433379c824e35c27e7b79_b588818bce348fd95016a980b8392e35_Charlotte%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_7.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -3071,7 +4176,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/68443337fba2622d7172f249_5ba7f28ca83a2846d3f20ae0aa8b16a0_Sandisk%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/68443337fba2622d7172f249_5ba7f28ca83a2846d3f20ae0aa8b16a0_Sandisk%20A-p-500.webp 500w,
+                          images/68443337fba2622d7172f249_5ba7f28ca83a2846d3f20ae0aa8b16a0_Sandisk%20A-p-800.webp 800w,
+                          images/68443337fba2622d7172f249_5ba7f28ca83a2846d3f20ae0aa8b16a0_Sandisk%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_8.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -3083,7 +4199,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/68443337bb11284b09e8be35_fb6921e6d84dd9c78b4797b63362242d_Sandisk%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443337bb11284b09e8be35_fb6921e6d84dd9c78b4797b63362242d_Sandisk%20B-p-500.webp 500w,
+                            images/68443337bb11284b09e8be35_fb6921e6d84dd9c78b4797b63362242d_Sandisk%20B-p-800.webp 800w,
+                            images/68443337bb11284b09e8be35_fb6921e6d84dd9c78b4797b63362242d_Sandisk%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_8.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -3092,7 +4219,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/684433346cb577eb6037fd38_9b378c6908e3412e76cd87b3c2a94b0d_Sandisk%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/684433346cb577eb6037fd38_9b378c6908e3412e76cd87b3c2a94b0d_Sandisk%20C-p-500.webp 500w,
+                            images/684433346cb577eb6037fd38_9b378c6908e3412e76cd87b3c2a94b0d_Sandisk%20C-p-800.webp 800w,
+                            images/684433346cb577eb6037fd38_9b378c6908e3412e76cd87b3c2a94b0d_Sandisk%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_8.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -3103,7 +4241,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/6844333499449ad45d93ea84_04d7773d4ec91b5b0fbdb5efaabaf245_Paolo%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/6844333499449ad45d93ea84_04d7773d4ec91b5b0fbdb5efaabaf245_Paolo%20A-p-500.webp 500w,
+                          images/6844333499449ad45d93ea84_04d7773d4ec91b5b0fbdb5efaabaf245_Paolo%20A-p-800.webp 800w,
+                          images/6844333499449ad45d93ea84_04d7773d4ec91b5b0fbdb5efaabaf245_Paolo%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_9.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -3115,7 +4264,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/685149db201ab0527e74e7f0_8758fe8ed98eeadf8911c3d7244dedd6_Paolo%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/685149db201ab0527e74e7f0_8758fe8ed98eeadf8911c3d7244dedd6_Paolo%20B-p-500.webp 500w,
+                            images/685149db201ab0527e74e7f0_8758fe8ed98eeadf8911c3d7244dedd6_Paolo%20B-p-800.webp 800w,
+                            images/685149db201ab0527e74e7f0_8758fe8ed98eeadf8911c3d7244dedd6_Paolo%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_9.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -3124,7 +4284,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/685149db9c6d04268757c68c_28f338d00c4c302962efd8038b7f4220_Paolo%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/685149db9c6d04268757c68c_28f338d00c4c302962efd8038b7f4220_Paolo%20C-p-500.webp 500w,
+                            images/685149db9c6d04268757c68c_28f338d00c4c302962efd8038b7f4220_Paolo%20C-p-800.webp 800w,
+                            images/685149db9c6d04268757c68c_28f338d00c4c302962efd8038b7f4220_Paolo%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_9.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -3135,7 +4306,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/68443337673bf8b6193e4298_4a357096f85f380fc687a511d10d5f65_Santagato%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/68443337673bf8b6193e4298_4a357096f85f380fc687a511d10d5f65_Santagato%20A-p-500.webp 500w,
+                          images/68443337673bf8b6193e4298_4a357096f85f380fc687a511d10d5f65_Santagato%20A-p-800.webp 800w,
+                          images/68443337673bf8b6193e4298_4a357096f85f380fc687a511d10d5f65_Santagato%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_1.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -3151,7 +4333,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/6844333706391da4f246fff4_f1043c2f32d4e6d180739372d95db537_Santagato%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/6844333706391da4f246fff4_f1043c2f32d4e6d180739372d95db537_Santagato%20B-p-500.webp 500w,
+                            images/6844333706391da4f246fff4_f1043c2f32d4e6d180739372d95db537_Santagato%20B-p-800.webp 800w,
+                            images/6844333706391da4f246fff4_f1043c2f32d4e6d180739372d95db537_Santagato%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_1.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -3160,7 +4353,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/6844333726b1d73b26410991_db2783282d6072d64258325404412e24_Santagato%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/6844333726b1d73b26410991_db2783282d6072d64258325404412e24_Santagato%20C-p-500.webp 500w,
+                            images/6844333726b1d73b26410991_db2783282d6072d64258325404412e24_Santagato%20C-p-800.webp 800w,
+                            images/6844333726b1d73b26410991_db2783282d6072d64258325404412e24_Santagato%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_1.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -3171,7 +4375,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/684433372da81548f6163c1b_be7ff1ffa4ffc77b023a8ba02c5fd92f_NYMag%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/684433372da81548f6163c1b_be7ff1ffa4ffc77b023a8ba02c5fd92f_NYMag%20A-p-500.webp 500w,
+                          images/684433372da81548f6163c1b_be7ff1ffa4ffc77b023a8ba02c5fd92f_NYMag%20A-p-800.webp 800w,
+                          images/684433372da81548f6163c1b_be7ff1ffa4ffc77b023a8ba02c5fd92f_NYMag%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_2.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -3183,7 +4398,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/684433370350bed52f52eb9b_b0cb071799b7780cc8bafb7804f1512a_NYMag%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/684433370350bed52f52eb9b_b0cb071799b7780cc8bafb7804f1512a_NYMag%20B-p-500.webp 500w,
+                            images/684433370350bed52f52eb9b_b0cb071799b7780cc8bafb7804f1512a_NYMag%20B-p-800.webp 800w,
+                            images/684433370350bed52f52eb9b_b0cb071799b7780cc8bafb7804f1512a_NYMag%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_2.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -3192,7 +4418,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/68443337972eb0cfe78ffbb5_955e93b2408984ae49908c80634c4246_NYMag%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443337972eb0cfe78ffbb5_955e93b2408984ae49908c80634c4246_NYMag%20C-p-500.webp 500w,
+                            images/68443337972eb0cfe78ffbb5_955e93b2408984ae49908c80634c4246_NYMag%20C-p-800.webp 800w,
+                            images/68443337972eb0cfe78ffbb5_955e93b2408984ae49908c80634c4246_NYMag%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_2.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -3203,7 +4440,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/68443339f2d2d0490752faba_24da17fdcdbe51c08550b71057b263f6_MKBHD%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/68443339f2d2d0490752faba_24da17fdcdbe51c08550b71057b263f6_MKBHD%20A-p-500.webp 500w,
+                          images/68443339f2d2d0490752faba_24da17fdcdbe51c08550b71057b263f6_MKBHD%20A-p-800.webp 800w,
+                          images/68443339f2d2d0490752faba_24da17fdcdbe51c08550b71057b263f6_MKBHD%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_3.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -3215,7 +4463,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/68443339e5bafea869de52cf_124a2fd0dd0fe00eafbd00fe8758e2b8_MKBHD%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443339e5bafea869de52cf_124a2fd0dd0fe00eafbd00fe8758e2b8_MKBHD%20B-p-500.webp 500w,
+                            images/68443339e5bafea869de52cf_124a2fd0dd0fe00eafbd00fe8758e2b8_MKBHD%20B-p-800.webp 800w,
+                            images/68443339e5bafea869de52cf_124a2fd0dd0fe00eafbd00fe8758e2b8_MKBHD%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_3.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -3224,7 +4483,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/6844333976c1b7f92da30e70_6e5d03f9d3f8fd6082e546a24f1d1e94_MKBHD%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/6844333976c1b7f92da30e70_6e5d03f9d3f8fd6082e546a24f1d1e94_MKBHD%20C-p-500.webp 500w,
+                            images/6844333976c1b7f92da30e70_6e5d03f9d3f8fd6082e546a24f1d1e94_MKBHD%20C-p-800.webp 800w,
+                            images/6844333976c1b7f92da30e70_6e5d03f9d3f8fd6082e546a24f1d1e94_MKBHD%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_3.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -3235,7 +4505,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/684433359a7da07ce4b1021a_1500d2f9d4a7efb1cc439d51cfb22b63_Harry%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/684433359a7da07ce4b1021a_1500d2f9d4a7efb1cc439d51cfb22b63_Harry%20A-p-500.webp 500w,
+                          images/684433359a7da07ce4b1021a_1500d2f9d4a7efb1cc439d51cfb22b63_Harry%20A-p-800.webp 800w,
+                          images/684433359a7da07ce4b1021a_1500d2f9d4a7efb1cc439d51cfb22b63_Harry%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_4.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -3247,7 +4528,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/68443334298786d342f1a19d_86ae968bb9b0cab74e21bc8146cecf24_Harry%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443334298786d342f1a19d_86ae968bb9b0cab74e21bc8146cecf24_Harry%20B-p-500.webp 500w,
+                            images/68443334298786d342f1a19d_86ae968bb9b0cab74e21bc8146cecf24_Harry%20B-p-800.webp 800w,
+                            images/68443334298786d342f1a19d_86ae968bb9b0cab74e21bc8146cecf24_Harry%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_4.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -3256,7 +4548,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/68443335504481159f3a5cab_6de30281591640cfa8fe015be229bba8_Harry%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443335504481159f3a5cab_6de30281591640cfa8fe015be229bba8_Harry%20C-p-500.webp 500w,
+                            images/68443335504481159f3a5cab_6de30281591640cfa8fe015be229bba8_Harry%20C-p-800.webp 800w,
+                            images/68443335504481159f3a5cab_6de30281591640cfa8fe015be229bba8_Harry%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_4.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -3267,7 +4570,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/68443337b0c0076e8690dfb3_e6c027fc7c0e2ee910dc325af14bd3ac_Mads%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/68443337b0c0076e8690dfb3_e6c027fc7c0e2ee910dc325af14bd3ac_Mads%20A-p-500.webp 500w,
+                          images/68443337b0c0076e8690dfb3_e6c027fc7c0e2ee910dc325af14bd3ac_Mads%20A-p-800.webp 800w,
+                          images/68443337b0c0076e8690dfb3_e6c027fc7c0e2ee910dc325af14bd3ac_Mads%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_5.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -3279,7 +4593,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/68443338a2983055e49d4864_d7ab7f150ee6a27b248d4326d1d66463_Mads%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443338a2983055e49d4864_d7ab7f150ee6a27b248d4326d1d66463_Mads%20B-p-500.webp 500w,
+                            images/68443338a2983055e49d4864_d7ab7f150ee6a27b248d4326d1d66463_Mads%20B-p-800.webp 800w,
+                            images/68443338a2983055e49d4864_d7ab7f150ee6a27b248d4326d1d66463_Mads%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_5.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -3288,7 +4613,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/6844333724542ff47de2747a_d1b018ecfa80376a93835e01bf94770c_Mads%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/6844333724542ff47de2747a_d1b018ecfa80376a93835e01bf94770c_Mads%20C-p-500.webp 500w,
+                            images/6844333724542ff47de2747a_d1b018ecfa80376a93835e01bf94770c_Mads%20C-p-800.webp 800w,
+                            images/6844333724542ff47de2747a_d1b018ecfa80376a93835e01bf94770c_Mads%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_5.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -3299,7 +4635,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/68443339600ad988e5b9ee78_347113010d7ec2d846c59ecbc000fd1c_Phil%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/68443339600ad988e5b9ee78_347113010d7ec2d846c59ecbc000fd1c_Phil%20A-p-500.webp 500w,
+                          images/68443339600ad988e5b9ee78_347113010d7ec2d846c59ecbc000fd1c_Phil%20A-p-800.webp 800w,
+                          images/68443339600ad988e5b9ee78_347113010d7ec2d846c59ecbc000fd1c_Phil%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_6.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -3311,7 +4658,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/684433394635034fbae6f938_34ff876d31d60e7be00966d0ad1edcb1_Phil%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/684433394635034fbae6f938_34ff876d31d60e7be00966d0ad1edcb1_Phil%20B-p-500.webp 500w,
+                            images/684433394635034fbae6f938_34ff876d31d60e7be00966d0ad1edcb1_Phil%20B-p-800.webp 800w,
+                            images/684433394635034fbae6f938_34ff876d31d60e7be00966d0ad1edcb1_Phil%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_6.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -3320,7 +4678,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/684433391cb96c5fd3417d10_8599f784af2ca9ae5d9ecc53dfe9d0f6_Phil%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/684433391cb96c5fd3417d10_8599f784af2ca9ae5d9ecc53dfe9d0f6_Phil%20C-p-500.webp 500w,
+                            images/684433391cb96c5fd3417d10_8599f784af2ca9ae5d9ecc53dfe9d0f6_Phil%20C-p-800.webp 800w,
+                            images/684433391cb96c5fd3417d10_8599f784af2ca9ae5d9ecc53dfe9d0f6_Phil%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_6.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -3331,7 +4700,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/6844333997821d027eb90364_c638805c4431b5f4fc76c5e4b126314c_Charlotte%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/6844333997821d027eb90364_c638805c4431b5f4fc76c5e4b126314c_Charlotte%20A-p-500.webp 500w,
+                          images/6844333997821d027eb90364_c638805c4431b5f4fc76c5e4b126314c_Charlotte%20A-p-800.webp 800w,
+                          images/6844333997821d027eb90364_c638805c4431b5f4fc76c5e4b126314c_Charlotte%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_7.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -3343,7 +4723,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/684433374635034fbae6f7e2_1641bf79aa8abea0e3ccdd872e7319fb_Charlotte%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/684433374635034fbae6f7e2_1641bf79aa8abea0e3ccdd872e7319fb_Charlotte%20B-p-500.webp 500w,
+                            images/684433374635034fbae6f7e2_1641bf79aa8abea0e3ccdd872e7319fb_Charlotte%20B-p-800.webp 800w,
+                            images/684433374635034fbae6f7e2_1641bf79aa8abea0e3ccdd872e7319fb_Charlotte%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_7.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -3352,7 +4743,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/684433379c824e35c27e7b79_b588818bce348fd95016a980b8392e35_Charlotte%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/684433379c824e35c27e7b79_b588818bce348fd95016a980b8392e35_Charlotte%20C-p-500.webp 500w,
+                            images/684433379c824e35c27e7b79_b588818bce348fd95016a980b8392e35_Charlotte%20C-p-800.webp 800w,
+                            images/684433379c824e35c27e7b79_b588818bce348fd95016a980b8392e35_Charlotte%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_7.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -3363,7 +4765,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/68443337fba2622d7172f249_5ba7f28ca83a2846d3f20ae0aa8b16a0_Sandisk%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/68443337fba2622d7172f249_5ba7f28ca83a2846d3f20ae0aa8b16a0_Sandisk%20A-p-500.webp 500w,
+                          images/68443337fba2622d7172f249_5ba7f28ca83a2846d3f20ae0aa8b16a0_Sandisk%20A-p-800.webp 800w,
+                          images/68443337fba2622d7172f249_5ba7f28ca83a2846d3f20ae0aa8b16a0_Sandisk%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_8.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -3375,7 +4788,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/68443337bb11284b09e8be35_fb6921e6d84dd9c78b4797b63362242d_Sandisk%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443337bb11284b09e8be35_fb6921e6d84dd9c78b4797b63362242d_Sandisk%20B-p-500.webp 500w,
+                            images/68443337bb11284b09e8be35_fb6921e6d84dd9c78b4797b63362242d_Sandisk%20B-p-800.webp 800w,
+                            images/68443337bb11284b09e8be35_fb6921e6d84dd9c78b4797b63362242d_Sandisk%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_8.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -3384,7 +4808,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/684433346cb577eb6037fd38_9b378c6908e3412e76cd87b3c2a94b0d_Sandisk%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/684433346cb577eb6037fd38_9b378c6908e3412e76cd87b3c2a94b0d_Sandisk%20C-p-500.webp 500w,
+                            images/684433346cb577eb6037fd38_9b378c6908e3412e76cd87b3c2a94b0d_Sandisk%20C-p-800.webp 800w,
+                            images/684433346cb577eb6037fd38_9b378c6908e3412e76cd87b3c2a94b0d_Sandisk%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_8.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -3395,7 +4830,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/6844333499449ad45d93ea84_04d7773d4ec91b5b0fbdb5efaabaf245_Paolo%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/6844333499449ad45d93ea84_04d7773d4ec91b5b0fbdb5efaabaf245_Paolo%20A-p-500.webp 500w,
+                          images/6844333499449ad45d93ea84_04d7773d4ec91b5b0fbdb5efaabaf245_Paolo%20A-p-800.webp 800w,
+                          images/6844333499449ad45d93ea84_04d7773d4ec91b5b0fbdb5efaabaf245_Paolo%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_9.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -3407,7 +4853,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/685149db201ab0527e74e7f0_8758fe8ed98eeadf8911c3d7244dedd6_Paolo%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/685149db201ab0527e74e7f0_8758fe8ed98eeadf8911c3d7244dedd6_Paolo%20B-p-500.webp 500w,
+                            images/685149db201ab0527e74e7f0_8758fe8ed98eeadf8911c3d7244dedd6_Paolo%20B-p-800.webp 800w,
+                            images/685149db201ab0527e74e7f0_8758fe8ed98eeadf8911c3d7244dedd6_Paolo%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_9.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -3416,7 +4873,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/685149db9c6d04268757c68c_28f338d00c4c302962efd8038b7f4220_Paolo%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/685149db9c6d04268757c68c_28f338d00c4c302962efd8038b7f4220_Paolo%20C-p-500.webp 500w,
+                            images/685149db9c6d04268757c68c_28f338d00c4c302962efd8038b7f4220_Paolo%20C-p-800.webp 800w,
+                            images/685149db9c6d04268757c68c_28f338d00c4c302962efd8038b7f4220_Paolo%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_9.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -3427,7 +4895,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/68443337673bf8b6193e4298_4a357096f85f380fc687a511d10d5f65_Santagato%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/68443337673bf8b6193e4298_4a357096f85f380fc687a511d10d5f65_Santagato%20A-p-500.webp 500w,
+                          images/68443337673bf8b6193e4298_4a357096f85f380fc687a511d10d5f65_Santagato%20A-p-800.webp 800w,
+                          images/68443337673bf8b6193e4298_4a357096f85f380fc687a511d10d5f65_Santagato%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_1.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -3443,7 +4922,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/6844333706391da4f246fff4_f1043c2f32d4e6d180739372d95db537_Santagato%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/6844333706391da4f246fff4_f1043c2f32d4e6d180739372d95db537_Santagato%20B-p-500.webp 500w,
+                            images/6844333706391da4f246fff4_f1043c2f32d4e6d180739372d95db537_Santagato%20B-p-800.webp 800w,
+                            images/6844333706391da4f246fff4_f1043c2f32d4e6d180739372d95db537_Santagato%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_1.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -3452,7 +4942,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/6844333726b1d73b26410991_db2783282d6072d64258325404412e24_Santagato%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/6844333726b1d73b26410991_db2783282d6072d64258325404412e24_Santagato%20C-p-500.webp 500w,
+                            images/6844333726b1d73b26410991_db2783282d6072d64258325404412e24_Santagato%20C-p-800.webp 800w,
+                            images/6844333726b1d73b26410991_db2783282d6072d64258325404412e24_Santagato%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_1.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -3463,7 +4964,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/684433372da81548f6163c1b_be7ff1ffa4ffc77b023a8ba02c5fd92f_NYMag%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/684433372da81548f6163c1b_be7ff1ffa4ffc77b023a8ba02c5fd92f_NYMag%20A-p-500.webp 500w,
+                          images/684433372da81548f6163c1b_be7ff1ffa4ffc77b023a8ba02c5fd92f_NYMag%20A-p-800.webp 800w,
+                          images/684433372da81548f6163c1b_be7ff1ffa4ffc77b023a8ba02c5fd92f_NYMag%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_2.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -3475,7 +4987,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/684433370350bed52f52eb9b_b0cb071799b7780cc8bafb7804f1512a_NYMag%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/684433370350bed52f52eb9b_b0cb071799b7780cc8bafb7804f1512a_NYMag%20B-p-500.webp 500w,
+                            images/684433370350bed52f52eb9b_b0cb071799b7780cc8bafb7804f1512a_NYMag%20B-p-800.webp 800w,
+                            images/684433370350bed52f52eb9b_b0cb071799b7780cc8bafb7804f1512a_NYMag%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_2.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -3484,7 +5007,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/68443337972eb0cfe78ffbb5_955e93b2408984ae49908c80634c4246_NYMag%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443337972eb0cfe78ffbb5_955e93b2408984ae49908c80634c4246_NYMag%20C-p-500.webp 500w,
+                            images/68443337972eb0cfe78ffbb5_955e93b2408984ae49908c80634c4246_NYMag%20C-p-800.webp 800w,
+                            images/68443337972eb0cfe78ffbb5_955e93b2408984ae49908c80634c4246_NYMag%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_2.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -3495,7 +5029,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/68443339f2d2d0490752faba_24da17fdcdbe51c08550b71057b263f6_MKBHD%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/68443339f2d2d0490752faba_24da17fdcdbe51c08550b71057b263f6_MKBHD%20A-p-500.webp 500w,
+                          images/68443339f2d2d0490752faba_24da17fdcdbe51c08550b71057b263f6_MKBHD%20A-p-800.webp 800w,
+                          images/68443339f2d2d0490752faba_24da17fdcdbe51c08550b71057b263f6_MKBHD%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_3.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -3507,7 +5052,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/68443339e5bafea869de52cf_124a2fd0dd0fe00eafbd00fe8758e2b8_MKBHD%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443339e5bafea869de52cf_124a2fd0dd0fe00eafbd00fe8758e2b8_MKBHD%20B-p-500.webp 500w,
+                            images/68443339e5bafea869de52cf_124a2fd0dd0fe00eafbd00fe8758e2b8_MKBHD%20B-p-800.webp 800w,
+                            images/68443339e5bafea869de52cf_124a2fd0dd0fe00eafbd00fe8758e2b8_MKBHD%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_3.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -3516,7 +5072,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/6844333976c1b7f92da30e70_6e5d03f9d3f8fd6082e546a24f1d1e94_MKBHD%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/6844333976c1b7f92da30e70_6e5d03f9d3f8fd6082e546a24f1d1e94_MKBHD%20C-p-500.webp 500w,
+                            images/6844333976c1b7f92da30e70_6e5d03f9d3f8fd6082e546a24f1d1e94_MKBHD%20C-p-800.webp 800w,
+                            images/6844333976c1b7f92da30e70_6e5d03f9d3f8fd6082e546a24f1d1e94_MKBHD%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_3.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -3527,7 +5094,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/684433359a7da07ce4b1021a_1500d2f9d4a7efb1cc439d51cfb22b63_Harry%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/684433359a7da07ce4b1021a_1500d2f9d4a7efb1cc439d51cfb22b63_Harry%20A-p-500.webp 500w,
+                          images/684433359a7da07ce4b1021a_1500d2f9d4a7efb1cc439d51cfb22b63_Harry%20A-p-800.webp 800w,
+                          images/684433359a7da07ce4b1021a_1500d2f9d4a7efb1cc439d51cfb22b63_Harry%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_4.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -3539,7 +5117,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/68443334298786d342f1a19d_86ae968bb9b0cab74e21bc8146cecf24_Harry%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443334298786d342f1a19d_86ae968bb9b0cab74e21bc8146cecf24_Harry%20B-p-500.webp 500w,
+                            images/68443334298786d342f1a19d_86ae968bb9b0cab74e21bc8146cecf24_Harry%20B-p-800.webp 800w,
+                            images/68443334298786d342f1a19d_86ae968bb9b0cab74e21bc8146cecf24_Harry%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_4.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -3548,7 +5137,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/68443335504481159f3a5cab_6de30281591640cfa8fe015be229bba8_Harry%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443335504481159f3a5cab_6de30281591640cfa8fe015be229bba8_Harry%20C-p-500.webp 500w,
+                            images/68443335504481159f3a5cab_6de30281591640cfa8fe015be229bba8_Harry%20C-p-800.webp 800w,
+                            images/68443335504481159f3a5cab_6de30281591640cfa8fe015be229bba8_Harry%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_4.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -3559,7 +5159,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/68443337b0c0076e8690dfb3_e6c027fc7c0e2ee910dc325af14bd3ac_Mads%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/68443337b0c0076e8690dfb3_e6c027fc7c0e2ee910dc325af14bd3ac_Mads%20A-p-500.webp 500w,
+                          images/68443337b0c0076e8690dfb3_e6c027fc7c0e2ee910dc325af14bd3ac_Mads%20A-p-800.webp 800w,
+                          images/68443337b0c0076e8690dfb3_e6c027fc7c0e2ee910dc325af14bd3ac_Mads%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_5.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -3571,7 +5182,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/68443338a2983055e49d4864_d7ab7f150ee6a27b248d4326d1d66463_Mads%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443338a2983055e49d4864_d7ab7f150ee6a27b248d4326d1d66463_Mads%20B-p-500.webp 500w,
+                            images/68443338a2983055e49d4864_d7ab7f150ee6a27b248d4326d1d66463_Mads%20B-p-800.webp 800w,
+                            images/68443338a2983055e49d4864_d7ab7f150ee6a27b248d4326d1d66463_Mads%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_5.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -3580,7 +5202,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/6844333724542ff47de2747a_d1b018ecfa80376a93835e01bf94770c_Mads%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/6844333724542ff47de2747a_d1b018ecfa80376a93835e01bf94770c_Mads%20C-p-500.webp 500w,
+                            images/6844333724542ff47de2747a_d1b018ecfa80376a93835e01bf94770c_Mads%20C-p-800.webp 800w,
+                            images/6844333724542ff47de2747a_d1b018ecfa80376a93835e01bf94770c_Mads%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_5.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -3591,7 +5224,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/68443339600ad988e5b9ee78_347113010d7ec2d846c59ecbc000fd1c_Phil%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/68443339600ad988e5b9ee78_347113010d7ec2d846c59ecbc000fd1c_Phil%20A-p-500.webp 500w,
+                          images/68443339600ad988e5b9ee78_347113010d7ec2d846c59ecbc000fd1c_Phil%20A-p-800.webp 800w,
+                          images/68443339600ad988e5b9ee78_347113010d7ec2d846c59ecbc000fd1c_Phil%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_6.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -3603,7 +5247,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/684433394635034fbae6f938_34ff876d31d60e7be00966d0ad1edcb1_Phil%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/684433394635034fbae6f938_34ff876d31d60e7be00966d0ad1edcb1_Phil%20B-p-500.webp 500w,
+                            images/684433394635034fbae6f938_34ff876d31d60e7be00966d0ad1edcb1_Phil%20B-p-800.webp 800w,
+                            images/684433394635034fbae6f938_34ff876d31d60e7be00966d0ad1edcb1_Phil%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_6.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -3612,7 +5267,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/684433391cb96c5fd3417d10_8599f784af2ca9ae5d9ecc53dfe9d0f6_Phil%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/684433391cb96c5fd3417d10_8599f784af2ca9ae5d9ecc53dfe9d0f6_Phil%20C-p-500.webp 500w,
+                            images/684433391cb96c5fd3417d10_8599f784af2ca9ae5d9ecc53dfe9d0f6_Phil%20C-p-800.webp 800w,
+                            images/684433391cb96c5fd3417d10_8599f784af2ca9ae5d9ecc53dfe9d0f6_Phil%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_6.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -3623,7 +5289,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/6844333997821d027eb90364_c638805c4431b5f4fc76c5e4b126314c_Charlotte%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/6844333997821d027eb90364_c638805c4431b5f4fc76c5e4b126314c_Charlotte%20A-p-500.webp 500w,
+                          images/6844333997821d027eb90364_c638805c4431b5f4fc76c5e4b126314c_Charlotte%20A-p-800.webp 800w,
+                          images/6844333997821d027eb90364_c638805c4431b5f4fc76c5e4b126314c_Charlotte%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_7.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -3635,7 +5312,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/684433374635034fbae6f7e2_1641bf79aa8abea0e3ccdd872e7319fb_Charlotte%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/684433374635034fbae6f7e2_1641bf79aa8abea0e3ccdd872e7319fb_Charlotte%20B-p-500.webp 500w,
+                            images/684433374635034fbae6f7e2_1641bf79aa8abea0e3ccdd872e7319fb_Charlotte%20B-p-800.webp 800w,
+                            images/684433374635034fbae6f7e2_1641bf79aa8abea0e3ccdd872e7319fb_Charlotte%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_7.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -3644,7 +5332,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/684433379c824e35c27e7b79_b588818bce348fd95016a980b8392e35_Charlotte%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/684433379c824e35c27e7b79_b588818bce348fd95016a980b8392e35_Charlotte%20C-p-500.webp 500w,
+                            images/684433379c824e35c27e7b79_b588818bce348fd95016a980b8392e35_Charlotte%20C-p-800.webp 800w,
+                            images/684433379c824e35c27e7b79_b588818bce348fd95016a980b8392e35_Charlotte%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_7.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -3655,7 +5354,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/68443337fba2622d7172f249_5ba7f28ca83a2846d3f20ae0aa8b16a0_Sandisk%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/68443337fba2622d7172f249_5ba7f28ca83a2846d3f20ae0aa8b16a0_Sandisk%20A-p-500.webp 500w,
+                          images/68443337fba2622d7172f249_5ba7f28ca83a2846d3f20ae0aa8b16a0_Sandisk%20A-p-800.webp 800w,
+                          images/68443337fba2622d7172f249_5ba7f28ca83a2846d3f20ae0aa8b16a0_Sandisk%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_8.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -3667,7 +5377,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/68443337bb11284b09e8be35_fb6921e6d84dd9c78b4797b63362242d_Sandisk%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/68443337bb11284b09e8be35_fb6921e6d84dd9c78b4797b63362242d_Sandisk%20B-p-500.webp 500w,
+                            images/68443337bb11284b09e8be35_fb6921e6d84dd9c78b4797b63362242d_Sandisk%20B-p-800.webp 800w,
+                            images/68443337bb11284b09e8be35_fb6921e6d84dd9c78b4797b63362242d_Sandisk%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_8.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -3676,7 +5397,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/684433346cb577eb6037fd38_9b378c6908e3412e76cd87b3c2a94b0d_Sandisk%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/684433346cb577eb6037fd38_9b378c6908e3412e76cd87b3c2a94b0d_Sandisk%20C-p-500.webp 500w,
+                            images/684433346cb577eb6037fd38_9b378c6908e3412e76cd87b3c2a94b0d_Sandisk%20C-p-800.webp 800w,
+                            images/684433346cb577eb6037fd38_9b378c6908e3412e76cd87b3c2a94b0d_Sandisk%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_8.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -3687,7 +5419,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/6844333499449ad45d93ea84_04d7773d4ec91b5b0fbdb5efaabaf245_Paolo%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/6844333499449ad45d93ea84_04d7773d4ec91b5b0fbdb5efaabaf245_Paolo%20A-p-500.webp 500w,
+                          images/6844333499449ad45d93ea84_04d7773d4ec91b5b0fbdb5efaabaf245_Paolo%20A-p-800.webp 800w,
+                          images/6844333499449ad45d93ea84_04d7773d4ec91b5b0fbdb5efaabaf245_Paolo%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_9.html"
                         target="_blank"
                         class="carousel-item-link"
@@ -3699,7 +5442,18 @@
                   <div class="main-carousel-column">
                     <div class="_50-50-carousel">
                       <div class="carousel-item-upper">
-                        <a
+                        <img
+                          src="images/685149db201ab0527e74e7f0_8758fe8ed98eeadf8911c3d7244dedd6_Paolo%20B.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/685149db201ab0527e74e7f0_8758fe8ed98eeadf8911c3d7244dedd6_Paolo%20B-p-500.webp 500w,
+                            images/685149db201ab0527e74e7f0_8758fe8ed98eeadf8911c3d7244dedd6_Paolo%20B-p-800.webp 800w,
+                            images/685149db201ab0527e74e7f0_8758fe8ed98eeadf8911c3d7244dedd6_Paolo%20B.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_9.html"
                           target="_blank"
                           data-wf-event-ids=""
@@ -3708,7 +5462,18 @@
                         ></a>
                       </div>
                       <div class="carousel-item">
-                        <a
+                        <img
+                          src="images/685149db9c6d04268757c68c_28f338d00c4c302962efd8038b7f4220_Paolo%20C.webp"
+                          loading="eager"
+                          alt=""
+                          sizes="(max-width: 900px) 100vw, 900px"
+                          srcset="
+                            images/685149db9c6d04268757c68c_28f338d00c4c302962efd8038b7f4220_Paolo%20C-p-500.webp 500w,
+                            images/685149db9c6d04268757c68c_28f338d00c4c302962efd8038b7f4220_Paolo%20C-p-800.webp 800w,
+                            images/685149db9c6d04268757c68c_28f338d00c4c302962efd8038b7f4220_Paolo%20C.webp       900w
+                          "
+                          class="main-carousel-item-image"
+                        /><a
                           href="index_9.html"
                           target="_blank"
                           class="carousel-item-link"
@@ -3719,7 +5484,18 @@
                   </div>
                   <div class="main-carousel-column">
                     <div class="carousel-item">
-                      <a
+                      <img
+                        src="images/68443337673bf8b6193e4298_4a357096f85f380fc687a511d10d5f65_Santagato%20A.webp"
+                        loading="eager"
+                        alt=""
+                        sizes="(max-width: 900px) 100vw, 900px"
+                        srcset="
+                          images/68443337673bf8b6193e4298_4a357096f85f380fc687a511d10d5f65_Santagato%20A-p-500.webp 500w,
+                          images/68443337673bf8b6193e4298_4a357096f85f380fc687a511d10d5f65_Santagato%20A-p-800.webp 800w,
+                          images/68443337673bf8b6193e4298_4a357096f85f380fc687a511d10d5f65_Santagato%20A.webp       900w
+                        "
+                        class="main-carousel-item-image"
+                      /><a
                         href="index_1.html"
                         target="_blank"
                         class="carousel-item-link"
